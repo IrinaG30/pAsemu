@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8"?><Database Name="ASEMU" Class="AsumeDataContext" xmlns="http://schemas.microsoft.com/linqtosql/dbml/2007">
+  <Connection Mode="WebSettings" ConnectionString="Data Source=WINDOWS-HFQN95A;Initial Catalog=ASEMU;Integrated Security=True" SettingsObjectName="System.Configuration.ConfigurationManager.ConnectionStrings" SettingsPropertyName="ProyectoAsemu" Provider="System.Data.SqlClient" />
+  <Table Name="dbo.Usuarios" Member="Usuarios">
+    <Type Name="Usuarios">
+      <Column Name="idUsuarios" Type="System.Int32" DbType="Int NOT NULL IDENTITY" IsPrimaryKey="true" IsDbGenerated="true" CanBeNull="false" />
+      <Column Name="cedulaAsociado" Type="System.Int32" DbType="Int" CanBeNull="true" />
+      <Column Name="correoElectronico" Type="System.String" DbType="VarChar(100)" CanBeNull="true" />
+      <Column Name="idRol" Type="System.Int32" DbType="Int" CanBeNull="true" />
+      <Column Name="contrasenna" Type="System.String" DbType="VarChar(150)" CanBeNull="true" />
+      <Column Name="salt" Type="System.String" DbType="VarChar(150)" CanBeNull="true" />
+      <Column Name="idEstadoDatos" Type="System.Int32" DbType="Int" CanBeNull="true" />
+    </Type>
+  </Table>
+  <Function Name="dbo.SP_CrearUsuarios" Method="SP_CrearUsuarios">
+    <Parameter Name="cedulaAsociado" Type="System.Int32" DbType="Int" />
+    <Parameter Name="correoElectronico" Type="System.String" DbType="VarChar(100)" />
+    <Parameter Name="idRol" Type="System.Int32" DbType="Int" />
+    <Parameter Name="contrasenna" Type="System.String" DbType="VarChar(150)" />
+    <Parameter Name="sal" Type="System.String" DbType="VarChar(150)" />
+    <Parameter Name="idEstadoDatos" Type="System.Int32" DbType="Int" />
+    <Return Type="System.Int32" />
+  </Function>
+</Database>

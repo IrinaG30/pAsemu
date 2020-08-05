@@ -1,0 +1,52 @@
+D:\Proyecto\ASEMU\CapaEntidad\bin\Debug\CapaEntidad.dll
+D:\Proyecto\ASEMU\CapaEntidad\bin\Debug\CapaEntidad.pdb
+D:\Proyecto\ASEMU\CapaEntidad\obj\Debug\CapaEntidad.csprojAssemblyReference.cache
+D:\Proyecto\ASEMU\CapaEntidad\obj\Debug\CapaEntidad.csproj.CoreCompileInputs.cache
+D:\Proyecto\ASEMU\CapaEntidad\obj\Debug\CapaEntidad.dll
+D:\Proyecto\ASEMU\CapaEntidad\obj\Debug\CapaEntidad.pdb
+C:\Users\USUARIO\Desktop\Universidad Fidelitas\Analisis desarollo 2\Proyecto Asume\ASEMU\CapaEntidad\bin\Debug\CapaEntidad.dll
+C:\Users\USUARIO\Desktop\Universidad Fidelitas\Analisis desarollo 2\Proyecto Asume\ASEMU\CapaEntidad\bin\Debug\CapaEntidad.pdb
+C:\Users\USUARIO\Desktop\Universidad Fidelitas\Analisis desarollo 2\Proyecto Asume\ASEMU\CapaEntidad\obj\Debug\CapaEntidad.csprojAssemblyReference.cache
+C:\Users\USUARIO\Desktop\Universidad Fidelitas\Analisis desarollo 2\Proyecto Asume\ASEMU\CapaEntidad\obj\Debug\CapaEntidad.csproj.CoreCompileInputs.cache
+C:\Users\USUARIO\Desktop\Universidad Fidelitas\Analisis desarollo 2\Proyecto Asume\ASEMU\CapaEntidad\obj\Debug\CapaEntidad.dll
+C:\Users\USUARIO\Desktop\Universidad Fidelitas\Analisis desarollo 2\Proyecto Asume\ASEMU\CapaEntidad\obj\Debug\CapaEntidad.pdb
+C:\Users\Irina Garcia\Downloads\Proyecto ASUME ENCRIIPTA\ASEMU\CapaEntidad\bin\Debug\CapaEntidad.dll
+C:\Users\Irina Garcia\Downloads\Proyecto ASUME ENCRIIPTA\ASEMU\CapaEntidad\bin\Debug\CapaEntidad.pdb
+C:\Users\Irina Garcia\Downloads\Proyecto ASUME ENCRIIPTA\ASEMU\CapaEntidad\obj\Debug\CapaEntidad.csprojAssemblyReference.cache
+C:\Users\Irina Garcia\Downloads\Proyecto ASUME ENCRIIPTA\ASEMU\CapaEntidad\obj\Debug\CapaEntidad.csproj.CoreCompileInputs.cache
+C:\Users\Irina Garcia\Downloads\Proyecto ASUME ENCRIIPTA\ASEMU\CapaEntidad\obj\Debug\CapaEntidad.dll
+C:\Users\Irina Garcia\Downloads\Proyecto ASUME ENCRIIPTA\ASEMU\CapaEntidad\obj\Debug\CapaEntidad.pdb
+C:\Users\Irina Garcia\Downloads\Proyecto ASUME ENCRIIPTA\ASEMU\CapaEntidad\bin\Debug\Microsoft.VisualStudio.CodeCoverage.Shim.dll
+C:\Users\Irina Garcia\Downloads\Proyecto ASUME ENCRIIPTA\ASEMU\CapaEntidad\obj\Debug\CapaEntidad.csproj.CopyComplete
+D:\Diseno y Desarollo de Sistemas\Proyecto\Proyecto Programado\19-07-2020\Proyecto ASUME ENCRIIPTA\ASEMU\CapaEntidad\bin\Debug\CapaEntidad.dll
+D:\Diseno y Desarollo de Sistemas\Proyecto\Proyecto Programado\19-07-2020\Proyecto ASUME ENCRIIPTA\ASEMU\CapaEntidad\bin\Debug\CapaEntidad.pdb
+D:\Diseno y Desarollo de Sistemas\Proyecto\Proyecto Programado\19-07-2020\Proyecto ASUME ENCRIIPTA\ASEMU\CapaEntidad\bin\Debug\Microsoft.VisualStudio.CodeCoverage.Shim.dll
+D:\Diseno y Desarollo de Sistemas\Proyecto\Proyecto Programado\19-07-2020\Proyecto ASUME ENCRIIPTA\ASEMU\CapaEntidad\obj\Debug\CapaEntidad.csprojAssemblyReference.cache
+D:\Diseno y Desarollo de Sistemas\Proyecto\Proyecto Programado\19-07-2020\Proyecto ASUME ENCRIIPTA\ASEMU\CapaEntidad\obj\Debug\CapaEntidad.csproj.CoreCompileInputs.cache
+D:\Diseno y Desarollo de Sistemas\Proyecto\Proyecto Programado\19-07-2020\Proyecto ASUME ENCRIIPTA\ASEMU\CapaEntidad\obj\Debug\CapaEntidad.csproj.CopyComplete
+D:\Diseno y Desarollo de Sistemas\Proyecto\Proyecto Programado\19-07-2020\Proyecto ASUME ENCRIIPTA\ASEMU\CapaEntidad\obj\Debug\CapaEntidad.dll
+D:\Diseno y Desarollo de Sistemas\Proyecto\Proyecto Programado\19-07-2020\Proyecto ASUME ENCRIIPTA\ASEMU\CapaEntidad\obj\Debug\CapaEntidad.pdb
+C:\Users\USUARIO\Desktop\Universidad Fidelitas\Analisis desarollo 2\Proyecto Asume\Proyecto Asume v8\ASEMU\CapaEntidad\bin\Debug\CapaEntidad.dll
+C:\Users\USUARIO\Desktop\Universidad Fidelitas\Analisis desarollo 2\Proyecto Asume\Proyecto Asume v8\ASEMU\CapaEntidad\bin\Debug\CapaEntidad.pdb
+C:\Users\USUARIO\Desktop\Universidad Fidelitas\Analisis desarollo 2\Proyecto Asume\Proyecto Asume v8\ASEMU\CapaEntidad\bin\Debug\Microsoft.VisualStudio.CodeCoverage.Shim.dll
+C:\Users\USUARIO\Desktop\Universidad Fidelitas\Analisis desarollo 2\Proyecto Asume\Proyecto Asume v8\ASEMU\CapaEntidad\obj\Debug\CapaEntidad.csprojAssemblyReference.cache
+C:\Users\USUARIO\Desktop\Universidad Fidelitas\Analisis desarollo 2\Proyecto Asume\Proyecto Asume v8\ASEMU\CapaEntidad\obj\Debug\CapaEntidad.csproj.CoreCompileInputs.cache
+C:\Users\USUARIO\Desktop\Universidad Fidelitas\Analisis desarollo 2\Proyecto Asume\Proyecto Asume v8\ASEMU\CapaEntidad\obj\Debug\CapaEntidad.csproj.CopyComplete
+C:\Users\USUARIO\Desktop\Universidad Fidelitas\Analisis desarollo 2\Proyecto Asume\Proyecto Asume v8\ASEMU\CapaEntidad\obj\Debug\CapaEntidad.dll
+C:\Users\USUARIO\Desktop\Universidad Fidelitas\Analisis desarollo 2\Proyecto Asume\Proyecto Asume v8\ASEMU\CapaEntidad\obj\Debug\CapaEntidad.pdb
+C:\Users\USUARIO\Desktop\Universidad Fidelitas\Analisis desarollo 2\Proyecto Asume\Proyecto Asemu v9\ASEMU\CapaEntidad\bin\Debug\CapaEntidad.dll
+C:\Users\USUARIO\Desktop\Universidad Fidelitas\Analisis desarollo 2\Proyecto Asume\Proyecto Asemu v9\ASEMU\CapaEntidad\bin\Debug\CapaEntidad.pdb
+C:\Users\USUARIO\Desktop\Universidad Fidelitas\Analisis desarollo 2\Proyecto Asume\Proyecto Asemu v9\ASEMU\CapaEntidad\bin\Debug\Microsoft.VisualStudio.CodeCoverage.Shim.dll
+C:\Users\USUARIO\Desktop\Universidad Fidelitas\Analisis desarollo 2\Proyecto Asume\Proyecto Asemu v9\ASEMU\CapaEntidad\obj\Debug\CapaEntidad.csprojAssemblyReference.cache
+C:\Users\USUARIO\Desktop\Universidad Fidelitas\Analisis desarollo 2\Proyecto Asume\Proyecto Asemu v9\ASEMU\CapaEntidad\obj\Debug\CapaEntidad.csproj.CoreCompileInputs.cache
+C:\Users\USUARIO\Desktop\Universidad Fidelitas\Analisis desarollo 2\Proyecto Asume\Proyecto Asemu v9\ASEMU\CapaEntidad\obj\Debug\CapaEntidad.csproj.CopyComplete
+C:\Users\USUARIO\Desktop\Universidad Fidelitas\Analisis desarollo 2\Proyecto Asume\Proyecto Asemu v9\ASEMU\CapaEntidad\obj\Debug\CapaEntidad.dll
+C:\Users\USUARIO\Desktop\Universidad Fidelitas\Analisis desarollo 2\Proyecto Asume\Proyecto Asemu v9\ASEMU\CapaEntidad\obj\Debug\CapaEntidad.pdb
+C:\Users\Irina Garcia\Downloads\ASEMU\CapaEntidad\bin\Debug\CapaEntidad.dll
+C:\Users\Irina Garcia\Downloads\ASEMU\CapaEntidad\bin\Debug\CapaEntidad.pdb
+C:\Users\Irina Garcia\Downloads\ASEMU\CapaEntidad\bin\Debug\Microsoft.VisualStudio.CodeCoverage.Shim.dll
+C:\Users\Irina Garcia\Downloads\ASEMU\CapaEntidad\obj\Debug\CapaEntidad.csprojAssemblyReference.cache
+C:\Users\Irina Garcia\Downloads\ASEMU\CapaEntidad\obj\Debug\CapaEntidad.csproj.CoreCompileInputs.cache
+C:\Users\Irina Garcia\Downloads\ASEMU\CapaEntidad\obj\Debug\CapaEntidad.csproj.CopyComplete
+C:\Users\Irina Garcia\Downloads\ASEMU\CapaEntidad\obj\Debug\CapaEntidad.dll
+C:\Users\Irina Garcia\Downloads\ASEMU\CapaEntidad\obj\Debug\CapaEntidad.pdb

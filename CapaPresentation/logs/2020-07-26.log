@@ -1,0 +1,9 @@
+2020-07-26 14:50:48.3217 INFO Inicio de sesion exitoso: 101110111, 123456
+2020-07-26 15:11:31.6094 INFO Inicio de sesion fallido: Usuario no existe, datos ingresados10111
+2020-07-26 15:11:58.1299 INFO Inicio de sesion fallido: Contrasenna incorrecta, datos ingresados 101110111, 9Il4c7ahDky6Ov3hqBEqH4abT95eFq9YHhT5rWJAIZ4UEKiNI0/1HQCUsa2MEPMvWvr7LD1TTx8TXP3KZlq97w==
+2020-07-26 22:56:59.9979 INFO Inicio de sesion fallido, usuario ingresado: 101110111, contrasenna ingresada:xu0LxebE21c4wAXsVrz7zKprk9e+d2ALfzcMbl97Uh8jtQSOnCy0DNTiLJQrPnWq7WDAhtbRyJWmOGuhFWJ4LQ==
+2020-07-26 22:57:06.5898 INFO Inicio de sesion exitoso: 101110111, U7SCPv3qMNIdMuQ3oRhsIgoa8/FW0jrRF8gzmfvdFojvwWeJgBorX9Fq9q0GqQJVHR25U9eYwl60sVglgTAxzg==
+2020-07-26 23:00:35.5429 INFO Inicio de sesion exitoso: 101110111, U7SCPv3qMNIdMuQ3oRhsIgoa8/FW0jrRF8gzmfvdFojvwWeJgBorX9Fq9q0GqQJVHR25U9eYwl60sVglgTAxzg==
+2020-07-26 23:01:09.6988 INFO Inicio de sesion exitoso: 101110111, U7SCPv3qMNIdMuQ3oRhsIgoa8/FW0jrRF8gzmfvdFojvwWeJgBorX9Fq9q0GqQJVHR25U9eYwl60sVglgTAxzg==
+2020-07-26 23:16:39.2087 INFO Inicio de sesion exitoso: 101110111, U7SCPv3qMNIdMuQ3oRhsIgoa8/FW0jrRF8gzmfvdFojvwWeJgBorX9Fq9q0GqQJVHR25U9eYwl60sVglgTAxzg==
+2020-07-26 23:19:24.0363 INFO Inicio de sesion exitoso: 101110111, U7SCPv3qMNIdMuQ3oRhsIgoa8/FW0jrRF8gzmfvdFojvwWeJgBorX9Fq9q0GqQJVHR25U9eYwl60sVglgTAxzg==

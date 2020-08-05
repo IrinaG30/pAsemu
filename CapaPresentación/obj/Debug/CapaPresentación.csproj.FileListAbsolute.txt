@@ -1,0 +1,2 @@
+D:\Proyecto\ASEMU\CapaPresentación\obj\Debug\CapaPresentación.csprojAssemblyReference.cache
+D:\Proyecto\ASEMU\CapaPresentación\obj\Debug\CapaPresentación.csproj.CoreCompileInputs.cache

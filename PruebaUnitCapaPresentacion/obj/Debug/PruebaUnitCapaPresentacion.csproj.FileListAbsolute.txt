@@ -1,0 +1,40 @@
+C:\Users\Irina Garcia\Downloads\Proyecto ASUME ENCRIIPTA\ASEMU\PruebaUnitCapaPresentacion\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\Irina Garcia\Downloads\Proyecto ASUME ENCRIIPTA\ASEMU\PruebaUnitCapaPresentacion\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\Irina Garcia\Downloads\Proyecto ASUME ENCRIIPTA\ASEMU\PruebaUnitCapaPresentacion\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\Irina Garcia\Downloads\Proyecto ASUME ENCRIIPTA\ASEMU\PruebaUnitCapaPresentacion\bin\Debug\es\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.resources.dll
+C:\Users\Irina Garcia\Downloads\Proyecto ASUME ENCRIIPTA\ASEMU\PruebaUnitCapaPresentacion\bin\Debug\es\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.resources.dll
+C:\Users\Irina Garcia\Downloads\Proyecto ASUME ENCRIIPTA\ASEMU\PruebaUnitCapaPresentacion\bin\Debug\es\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+C:\Users\Irina Garcia\Downloads\Proyecto ASUME ENCRIIPTA\ASEMU\PruebaUnitCapaPresentacion\bin\Debug\PruebaUnitCapaPresentacion.dll
+C:\Users\Irina Garcia\Downloads\Proyecto ASUME ENCRIIPTA\ASEMU\PruebaUnitCapaPresentacion\bin\Debug\PruebaUnitCapaPresentacion.pdb
+C:\Users\Irina Garcia\Downloads\Proyecto ASUME ENCRIIPTA\ASEMU\PruebaUnitCapaPresentacion\bin\Debug\CapaPresentation.dll
+C:\Users\Irina Garcia\Downloads\Proyecto ASUME ENCRIIPTA\ASEMU\PruebaUnitCapaPresentacion\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\Irina Garcia\Downloads\Proyecto ASUME ENCRIIPTA\ASEMU\PruebaUnitCapaPresentacion\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\Irina Garcia\Downloads\Proyecto ASUME ENCRIIPTA\ASEMU\PruebaUnitCapaPresentacion\bin\Debug\SimpleCrypto.dll
+C:\Users\Irina Garcia\Downloads\Proyecto ASUME ENCRIIPTA\ASEMU\PruebaUnitCapaPresentacion\bin\Debug\CapaEntidad.dll
+C:\Users\Irina Garcia\Downloads\Proyecto ASUME ENCRIIPTA\ASEMU\PruebaUnitCapaPresentacion\bin\Debug\System.Web.Optimization.dll
+C:\Users\Irina Garcia\Downloads\Proyecto ASUME ENCRIIPTA\ASEMU\PruebaUnitCapaPresentacion\bin\Debug\Microsoft.AspNet.FriendlyUrls.dll
+C:\Users\Irina Garcia\Downloads\Proyecto ASUME ENCRIIPTA\ASEMU\PruebaUnitCapaPresentacion\bin\Debug\Microsoft.Web.Infrastructure.dll
+C:\Users\Irina Garcia\Downloads\Proyecto ASUME ENCRIIPTA\ASEMU\PruebaUnitCapaPresentacion\bin\Debug\CapaPresentation.pdb
+C:\Users\Irina Garcia\Downloads\Proyecto ASUME ENCRIIPTA\ASEMU\PruebaUnitCapaPresentacion\bin\Debug\CapaPresentation.dll.config
+C:\Users\Irina Garcia\Downloads\Proyecto ASUME ENCRIIPTA\ASEMU\PruebaUnitCapaPresentacion\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Users\Irina Garcia\Downloads\Proyecto ASUME ENCRIIPTA\ASEMU\PruebaUnitCapaPresentacion\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Users\Irina Garcia\Downloads\Proyecto ASUME ENCRIIPTA\ASEMU\PruebaUnitCapaPresentacion\bin\Debug\CapaEntidad.pdb
+C:\Users\Irina Garcia\Downloads\Proyecto ASUME ENCRIIPTA\ASEMU\PruebaUnitCapaPresentacion\bin\Debug\System.Web.Optimization.xml
+C:\Users\Irina Garcia\Downloads\Proyecto ASUME ENCRIIPTA\ASEMU\PruebaUnitCapaPresentacion\bin\Debug\Microsoft.AspNet.FriendlyUrls.xml
+C:\Users\Irina Garcia\Downloads\Proyecto ASUME ENCRIIPTA\ASEMU\PruebaUnitCapaPresentacion\bin\Debug\es\System.Web.Optimization.resources.dll
+C:\Users\Irina Garcia\Downloads\Proyecto ASUME ENCRIIPTA\ASEMU\PruebaUnitCapaPresentacion\obj\Debug\PruebaUnitCapaPresentacion.csprojAssemblyReference.cache
+C:\Users\Irina Garcia\Downloads\Proyecto ASUME ENCRIIPTA\ASEMU\PruebaUnitCapaPresentacion\obj\Debug\PruebaUnitCapaPresentacion.csproj.CoreCompileInputs.cache
+C:\Users\Irina Garcia\Downloads\Proyecto ASUME ENCRIIPTA\ASEMU\PruebaUnitCapaPresentacion\obj\Debug\PruebaUnitCapaPresentacion.csproj.CopyComplete
+C:\Users\Irina Garcia\Downloads\Proyecto ASUME ENCRIIPTA\ASEMU\PruebaUnitCapaPresentacion\obj\Debug\PruebaUnitCapaPresentacion.dll
+C:\Users\Irina Garcia\Downloads\Proyecto ASUME ENCRIIPTA\ASEMU\PruebaUnitCapaPresentacion\obj\Debug\PruebaUnitCapaPresentacion.pdb
+C:\Users\Irina Garcia\Downloads\Proyecto ASUME ENCRIIPTA\ASEMU\PruebaUnitCapaPresentacion\bin\Debug\Capa Datos.dll
+C:\Users\Irina Garcia\Downloads\Proyecto ASUME ENCRIIPTA\ASEMU\PruebaUnitCapaPresentacion\bin\Debug\Capa Negocios.dll
+C:\Users\Irina Garcia\Downloads\Proyecto ASUME ENCRIIPTA\ASEMU\PruebaUnitCapaPresentacion\bin\Debug\Capa Datos.pdb
+C:\Users\Irina Garcia\Downloads\Proyecto ASUME ENCRIIPTA\ASEMU\PruebaUnitCapaPresentacion\bin\Debug\Capa Negocios.pdb
+C:\Users\Irina Garcia\Downloads\Proyecto ASUME ENCRIIPTA\ASEMU\PruebaUnitCapaPresentacion\bin\Debug\PruebaUnitCapaPresentacion.dll.config
+C:\Users\Irina Garcia\Downloads\Proyecto ASUME ENCRIIPTA\ASEMU\PruebaUnitCapaPresentacion\bin\Debug\Microsoft.VisualStudio.CodeCoverage.Shim.dll
+C:\Users\Irina Garcia\Downloads\Proyecto ASUME ENCRIIPTA\ASEMU\PruebaUnitCapaPresentacion\bin\Debug\WebGrease.dll
+C:\Users\Irina Garcia\Downloads\Proyecto ASUME ENCRIIPTA\ASEMU\PruebaUnitCapaPresentacion\bin\Debug\Antlr3.Runtime.dll
+C:\Users\Irina Garcia\Downloads\Proyecto ASUME ENCRIIPTA\ASEMU\PruebaUnitCapaPresentacion\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Irina Garcia\Downloads\Proyecto ASUME ENCRIIPTA\ASEMU\PruebaUnitCapaPresentacion\bin\Debug\Antlr3.Runtime.pdb
+C:\Users\Irina Garcia\Downloads\Proyecto ASUME ENCRIIPTA\ASEMU\PruebaUnitCapaPresentacion\bin\Debug\Newtonsoft.Json.xml

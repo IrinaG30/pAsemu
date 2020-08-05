@@ -1,0 +1,493 @@
+D:\Proyecto\ASEMU\CapaPresentation\bin\CapaPresentation.dll.config
+D:\Proyecto\ASEMU\CapaPresentation\bin\CapaPresentation.dll
+D:\Proyecto\ASEMU\CapaPresentation\bin\CapaPresentation.pdb
+D:\Proyecto\ASEMU\CapaPresentation\bin\roslyn\csc.exe
+D:\Proyecto\ASEMU\CapaPresentation\bin\roslyn\csc.exe.config
+D:\Proyecto\ASEMU\CapaPresentation\bin\roslyn\csc.rsp
+D:\Proyecto\ASEMU\CapaPresentation\bin\roslyn\csi.exe
+D:\Proyecto\ASEMU\CapaPresentation\bin\roslyn\csi.exe.config
+D:\Proyecto\ASEMU\CapaPresentation\bin\roslyn\csi.rsp
+D:\Proyecto\ASEMU\CapaPresentation\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\Proyecto\ASEMU\CapaPresentation\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\Proyecto\ASEMU\CapaPresentation\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\Proyecto\ASEMU\CapaPresentation\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\Proyecto\ASEMU\CapaPresentation\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\Proyecto\ASEMU\CapaPresentation\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\Proyecto\ASEMU\CapaPresentation\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\Proyecto\ASEMU\CapaPresentation\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\Proyecto\ASEMU\CapaPresentation\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\Proyecto\ASEMU\CapaPresentation\bin\roslyn\Microsoft.Managed.Core.targets
+D:\Proyecto\ASEMU\CapaPresentation\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\Proyecto\ASEMU\CapaPresentation\bin\roslyn\Microsoft.Win32.Primitives.dll
+D:\Proyecto\ASEMU\CapaPresentation\bin\roslyn\System.AppContext.dll
+D:\Proyecto\ASEMU\CapaPresentation\bin\roslyn\System.Collections.Immutable.dll
+D:\Proyecto\ASEMU\CapaPresentation\bin\roslyn\System.Console.dll
+D:\Proyecto\ASEMU\CapaPresentation\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+D:\Proyecto\ASEMU\CapaPresentation\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\Proyecto\ASEMU\CapaPresentation\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\Proyecto\ASEMU\CapaPresentation\bin\roslyn\System.Globalization.Calendars.dll
+D:\Proyecto\ASEMU\CapaPresentation\bin\roslyn\System.IO.Compression.dll
+D:\Proyecto\ASEMU\CapaPresentation\bin\roslyn\System.IO.Compression.ZipFile.dll
+D:\Proyecto\ASEMU\CapaPresentation\bin\roslyn\System.IO.FileSystem.dll
+D:\Proyecto\ASEMU\CapaPresentation\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\Proyecto\ASEMU\CapaPresentation\bin\roslyn\System.Net.Http.dll
+D:\Proyecto\ASEMU\CapaPresentation\bin\roslyn\System.Net.Sockets.dll
+D:\Proyecto\ASEMU\CapaPresentation\bin\roslyn\System.Reflection.Metadata.dll
+D:\Proyecto\ASEMU\CapaPresentation\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\Proyecto\ASEMU\CapaPresentation\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\Proyecto\ASEMU\CapaPresentation\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\Proyecto\ASEMU\CapaPresentation\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\Proyecto\ASEMU\CapaPresentation\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\Proyecto\ASEMU\CapaPresentation\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\Proyecto\ASEMU\CapaPresentation\bin\roslyn\System.Threading.Tasks.Extensions.dll
+D:\Proyecto\ASEMU\CapaPresentation\bin\roslyn\System.ValueTuple.dll
+D:\Proyecto\ASEMU\CapaPresentation\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\Proyecto\ASEMU\CapaPresentation\bin\roslyn\System.Xml.XmlDocument.dll
+D:\Proyecto\ASEMU\CapaPresentation\bin\roslyn\System.Xml.XPath.dll
+D:\Proyecto\ASEMU\CapaPresentation\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\Proyecto\ASEMU\CapaPresentation\bin\roslyn\vbc.exe
+D:\Proyecto\ASEMU\CapaPresentation\bin\roslyn\vbc.exe.config
+D:\Proyecto\ASEMU\CapaPresentation\bin\roslyn\vbc.rsp
+D:\Proyecto\ASEMU\CapaPresentation\bin\roslyn\VBCSCompiler.exe
+D:\Proyecto\ASEMU\CapaPresentation\bin\roslyn\VBCSCompiler.exe.config
+D:\Proyecto\ASEMU\CapaPresentation\bin\Antlr3.Runtime.dll
+D:\Proyecto\ASEMU\CapaPresentation\bin\AspNet.ScriptManager.bootstrap.dll
+D:\Proyecto\ASEMU\CapaPresentation\bin\AspNet.ScriptManager.jQuery.dll
+D:\Proyecto\ASEMU\CapaPresentation\bin\Microsoft.AspNet.FriendlyUrls.dll
+D:\Proyecto\ASEMU\CapaPresentation\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+D:\Proyecto\ASEMU\CapaPresentation\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\Proyecto\ASEMU\CapaPresentation\bin\Microsoft.ScriptManager.MSAjax.dll
+D:\Proyecto\ASEMU\CapaPresentation\bin\Microsoft.ScriptManager.WebForms.dll
+D:\Proyecto\ASEMU\CapaPresentation\bin\Microsoft.Web.Infrastructure.dll
+D:\Proyecto\ASEMU\CapaPresentation\bin\Newtonsoft.Json.dll
+D:\Proyecto\ASEMU\CapaPresentation\bin\System.Web.Optimization.dll
+D:\Proyecto\ASEMU\CapaPresentation\bin\WebGrease.dll
+D:\Proyecto\ASEMU\CapaPresentation\bin\System.Web.Optimization.xml
+D:\Proyecto\ASEMU\CapaPresentation\bin\Newtonsoft.Json.xml
+D:\Proyecto\ASEMU\CapaPresentation\bin\Antlr3.Runtime.pdb
+D:\Proyecto\ASEMU\CapaPresentation\bin\Microsoft.AspNet.FriendlyUrls.xml
+D:\Proyecto\ASEMU\CapaPresentation\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\Proyecto\ASEMU\CapaPresentation\bin\es\System.Web.Optimization.resources.dll
+D:\Proyecto\ASEMU\CapaPresentation\bin\es\Microsoft.AspNet.FriendlyUrls.resources.dll
+D:\Proyecto\ASEMU\CapaPresentation\obj\Debug\CapaPresentacion.csproj.CoreCompileInputs.cache
+D:\Proyecto\ASEMU\CapaPresentation\obj\Debug\CapaPresentacion.csproj.CopyComplete
+D:\Proyecto\ASEMU\CapaPresentation\obj\Debug\CapaPresentation.dll
+D:\Proyecto\ASEMU\CapaPresentation\obj\Debug\CapaPresentation.pdb
+D:\Proyecto\ASEMU\CapaPresentation\obj\Debug\CapaPresentacion.csprojAssemblyReference.cache
+C:\Users\USUARIO\Desktop\Universidad Fidelitas\Analisis desarollo 2\Proyecto Asume\ASEMU\CapaPresentation\obj\Debug\CapaPresentacion.csprojAssemblyReference.cache
+C:\Users\USUARIO\Desktop\Universidad Fidelitas\Analisis desarollo 2\Proyecto Asume\ASEMU\CapaPresentation\obj\Debug\CapaPresentacion.csproj.CoreCompileInputs.cache
+C:\Users\USUARIO\Desktop\Universidad Fidelitas\Analisis desarollo 2\Proyecto Asume\ASEMU\CapaPresentation\obj\Debug\CapaPresentation.dll
+C:\Users\USUARIO\Desktop\Universidad Fidelitas\Analisis desarollo 2\Proyecto Asume\ASEMU\CapaPresentation\obj\Debug\CapaPresentation.pdb
+C:\Users\USUARIO\Desktop\Universidad Fidelitas\Analisis desarollo 2\Proyecto Asume\ASEMU\CapaPresentation\bin\CapaPresentation.dll.config
+C:\Users\USUARIO\Desktop\Universidad Fidelitas\Analisis desarollo 2\Proyecto Asume\ASEMU\CapaPresentation\bin\CapaPresentation.dll
+C:\Users\USUARIO\Desktop\Universidad Fidelitas\Analisis desarollo 2\Proyecto Asume\ASEMU\CapaPresentation\bin\CapaPresentation.pdb
+C:\Users\USUARIO\Desktop\Universidad Fidelitas\Analisis desarollo 2\Proyecto Asume\ASEMU\CapaPresentation\bin\roslyn\csc.exe
+C:\Users\USUARIO\Desktop\Universidad Fidelitas\Analisis desarollo 2\Proyecto Asume\ASEMU\CapaPresentation\bin\roslyn\csc.exe.config
+C:\Users\USUARIO\Desktop\Universidad Fidelitas\Analisis desarollo 2\Proyecto Asume\ASEMU\CapaPresentation\bin\roslyn\csc.rsp
+C:\Users\USUARIO\Desktop\Universidad Fidelitas\Analisis desarollo 2\Proyecto Asume\ASEMU\CapaPresentation\bin\roslyn\csi.exe
+C:\Users\USUARIO\Desktop\Universidad Fidelitas\Analisis desarollo 2\Proyecto Asume\ASEMU\CapaPresentation\bin\roslyn\csi.exe.config
+C:\Users\USUARIO\Desktop\Universidad Fidelitas\Analisis desarollo 2\Proyecto Asume\ASEMU\CapaPresentation\bin\roslyn\csi.rsp
+C:\Users\USUARIO\Desktop\Universidad Fidelitas\Analisis desarollo 2\Proyecto Asume\ASEMU\CapaPresentation\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\USUARIO\Desktop\Universidad Fidelitas\Analisis desarollo 2\Proyecto Asume\ASEMU\CapaPresentation\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\USUARIO\Desktop\Universidad Fidelitas\Analisis desarollo 2\Proyecto Asume\ASEMU\CapaPresentation\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\USUARIO\Desktop\Universidad Fidelitas\Analisis desarollo 2\Proyecto Asume\ASEMU\CapaPresentation\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\USUARIO\Desktop\Universidad Fidelitas\Analisis desarollo 2\Proyecto Asume\ASEMU\CapaPresentation\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\USUARIO\Desktop\Universidad Fidelitas\Analisis desarollo 2\Proyecto Asume\ASEMU\CapaPresentation\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\USUARIO\Desktop\Universidad Fidelitas\Analisis desarollo 2\Proyecto Asume\ASEMU\CapaPresentation\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\USUARIO\Desktop\Universidad Fidelitas\Analisis desarollo 2\Proyecto Asume\ASEMU\CapaPresentation\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\USUARIO\Desktop\Universidad Fidelitas\Analisis desarollo 2\Proyecto Asume\ASEMU\CapaPresentation\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\USUARIO\Desktop\Universidad Fidelitas\Analisis desarollo 2\Proyecto Asume\ASEMU\CapaPresentation\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\USUARIO\Desktop\Universidad Fidelitas\Analisis desarollo 2\Proyecto Asume\ASEMU\CapaPresentation\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\USUARIO\Desktop\Universidad Fidelitas\Analisis desarollo 2\Proyecto Asume\ASEMU\CapaPresentation\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\USUARIO\Desktop\Universidad Fidelitas\Analisis desarollo 2\Proyecto Asume\ASEMU\CapaPresentation\bin\roslyn\System.AppContext.dll
+C:\Users\USUARIO\Desktop\Universidad Fidelitas\Analisis desarollo 2\Proyecto Asume\ASEMU\CapaPresentation\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\USUARIO\Desktop\Universidad Fidelitas\Analisis desarollo 2\Proyecto Asume\ASEMU\CapaPresentation\bin\roslyn\System.Console.dll
+C:\Users\USUARIO\Desktop\Universidad Fidelitas\Analisis desarollo 2\Proyecto Asume\ASEMU\CapaPresentation\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\USUARIO\Desktop\Universidad Fidelitas\Analisis desarollo 2\Proyecto Asume\ASEMU\CapaPresentation\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\USUARIO\Desktop\Universidad Fidelitas\Analisis desarollo 2\Proyecto Asume\ASEMU\CapaPresentation\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\USUARIO\Desktop\Universidad Fidelitas\Analisis desarollo 2\Proyecto Asume\ASEMU\CapaPresentation\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\USUARIO\Desktop\Universidad Fidelitas\Analisis desarollo 2\Proyecto Asume\ASEMU\CapaPresentation\bin\roslyn\System.IO.Compression.dll
+C:\Users\USUARIO\Desktop\Universidad Fidelitas\Analisis desarollo 2\Proyecto Asume\ASEMU\CapaPresentation\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\USUARIO\Desktop\Universidad Fidelitas\Analisis desarollo 2\Proyecto Asume\ASEMU\CapaPresentation\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\USUARIO\Desktop\Universidad Fidelitas\Analisis desarollo 2\Proyecto Asume\ASEMU\CapaPresentation\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\USUARIO\Desktop\Universidad Fidelitas\Analisis desarollo 2\Proyecto Asume\ASEMU\CapaPresentation\bin\roslyn\System.Net.Http.dll
+C:\Users\USUARIO\Desktop\Universidad Fidelitas\Analisis desarollo 2\Proyecto Asume\ASEMU\CapaPresentation\bin\roslyn\System.Net.Sockets.dll
+C:\Users\USUARIO\Desktop\Universidad Fidelitas\Analisis desarollo 2\Proyecto Asume\ASEMU\CapaPresentation\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\USUARIO\Desktop\Universidad Fidelitas\Analisis desarollo 2\Proyecto Asume\ASEMU\CapaPresentation\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\USUARIO\Desktop\Universidad Fidelitas\Analisis desarollo 2\Proyecto Asume\ASEMU\CapaPresentation\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\USUARIO\Desktop\Universidad Fidelitas\Analisis desarollo 2\Proyecto Asume\ASEMU\CapaPresentation\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\USUARIO\Desktop\Universidad Fidelitas\Analisis desarollo 2\Proyecto Asume\ASEMU\CapaPresentation\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\USUARIO\Desktop\Universidad Fidelitas\Analisis desarollo 2\Proyecto Asume\ASEMU\CapaPresentation\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\USUARIO\Desktop\Universidad Fidelitas\Analisis desarollo 2\Proyecto Asume\ASEMU\CapaPresentation\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\USUARIO\Desktop\Universidad Fidelitas\Analisis desarollo 2\Proyecto Asume\ASEMU\CapaPresentation\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\USUARIO\Desktop\Universidad Fidelitas\Analisis desarollo 2\Proyecto Asume\ASEMU\CapaPresentation\bin\roslyn\System.ValueTuple.dll
+C:\Users\USUARIO\Desktop\Universidad Fidelitas\Analisis desarollo 2\Proyecto Asume\ASEMU\CapaPresentation\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\USUARIO\Desktop\Universidad Fidelitas\Analisis desarollo 2\Proyecto Asume\ASEMU\CapaPresentation\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\USUARIO\Desktop\Universidad Fidelitas\Analisis desarollo 2\Proyecto Asume\ASEMU\CapaPresentation\bin\roslyn\System.Xml.XPath.dll
+C:\Users\USUARIO\Desktop\Universidad Fidelitas\Analisis desarollo 2\Proyecto Asume\ASEMU\CapaPresentation\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\USUARIO\Desktop\Universidad Fidelitas\Analisis desarollo 2\Proyecto Asume\ASEMU\CapaPresentation\bin\roslyn\vbc.exe
+C:\Users\USUARIO\Desktop\Universidad Fidelitas\Analisis desarollo 2\Proyecto Asume\ASEMU\CapaPresentation\bin\roslyn\vbc.exe.config
+C:\Users\USUARIO\Desktop\Universidad Fidelitas\Analisis desarollo 2\Proyecto Asume\ASEMU\CapaPresentation\bin\roslyn\vbc.rsp
+C:\Users\USUARIO\Desktop\Universidad Fidelitas\Analisis desarollo 2\Proyecto Asume\ASEMU\CapaPresentation\bin\roslyn\VBCSCompiler.exe
+C:\Users\USUARIO\Desktop\Universidad Fidelitas\Analisis desarollo 2\Proyecto Asume\ASEMU\CapaPresentation\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\USUARIO\Desktop\Universidad Fidelitas\Analisis desarollo 2\Proyecto Asume\ASEMU\CapaPresentation\bin\Antlr3.Runtime.dll
+C:\Users\USUARIO\Desktop\Universidad Fidelitas\Analisis desarollo 2\Proyecto Asume\ASEMU\CapaPresentation\bin\AspNet.ScriptManager.bootstrap.dll
+C:\Users\USUARIO\Desktop\Universidad Fidelitas\Analisis desarollo 2\Proyecto Asume\ASEMU\CapaPresentation\bin\AspNet.ScriptManager.jQuery.dll
+C:\Users\USUARIO\Desktop\Universidad Fidelitas\Analisis desarollo 2\Proyecto Asume\ASEMU\CapaPresentation\bin\Capa Datos.dll
+C:\Users\USUARIO\Desktop\Universidad Fidelitas\Analisis desarollo 2\Proyecto Asume\ASEMU\CapaPresentation\bin\Capa Negocios.dll
+C:\Users\USUARIO\Desktop\Universidad Fidelitas\Analisis desarollo 2\Proyecto Asume\ASEMU\CapaPresentation\bin\CapaEntidad.dll
+C:\Users\USUARIO\Desktop\Universidad Fidelitas\Analisis desarollo 2\Proyecto Asume\ASEMU\CapaPresentation\bin\Microsoft.AspNet.FriendlyUrls.dll
+C:\Users\USUARIO\Desktop\Universidad Fidelitas\Analisis desarollo 2\Proyecto Asume\ASEMU\CapaPresentation\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+C:\Users\USUARIO\Desktop\Universidad Fidelitas\Analisis desarollo 2\Proyecto Asume\ASEMU\CapaPresentation\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\USUARIO\Desktop\Universidad Fidelitas\Analisis desarollo 2\Proyecto Asume\ASEMU\CapaPresentation\bin\Microsoft.ScriptManager.MSAjax.dll
+C:\Users\USUARIO\Desktop\Universidad Fidelitas\Analisis desarollo 2\Proyecto Asume\ASEMU\CapaPresentation\bin\Microsoft.ScriptManager.WebForms.dll
+C:\Users\USUARIO\Desktop\Universidad Fidelitas\Analisis desarollo 2\Proyecto Asume\ASEMU\CapaPresentation\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\USUARIO\Desktop\Universidad Fidelitas\Analisis desarollo 2\Proyecto Asume\ASEMU\CapaPresentation\bin\Newtonsoft.Json.dll
+C:\Users\USUARIO\Desktop\Universidad Fidelitas\Analisis desarollo 2\Proyecto Asume\ASEMU\CapaPresentation\bin\SimpleCrypto.dll
+C:\Users\USUARIO\Desktop\Universidad Fidelitas\Analisis desarollo 2\Proyecto Asume\ASEMU\CapaPresentation\bin\System.Web.Optimization.dll
+C:\Users\USUARIO\Desktop\Universidad Fidelitas\Analisis desarollo 2\Proyecto Asume\ASEMU\CapaPresentation\bin\WebGrease.dll
+C:\Users\USUARIO\Desktop\Universidad Fidelitas\Analisis desarollo 2\Proyecto Asume\ASEMU\CapaPresentation\bin\Capa Datos.pdb
+C:\Users\USUARIO\Desktop\Universidad Fidelitas\Analisis desarollo 2\Proyecto Asume\ASEMU\CapaPresentation\bin\Capa Negocios.pdb
+C:\Users\USUARIO\Desktop\Universidad Fidelitas\Analisis desarollo 2\Proyecto Asume\ASEMU\CapaPresentation\bin\CapaEntidad.pdb
+C:\Users\USUARIO\Desktop\Universidad Fidelitas\Analisis desarollo 2\Proyecto Asume\ASEMU\CapaPresentation\bin\System.Web.Optimization.xml
+C:\Users\USUARIO\Desktop\Universidad Fidelitas\Analisis desarollo 2\Proyecto Asume\ASEMU\CapaPresentation\bin\Newtonsoft.Json.xml
+C:\Users\USUARIO\Desktop\Universidad Fidelitas\Analisis desarollo 2\Proyecto Asume\ASEMU\CapaPresentation\bin\Antlr3.Runtime.pdb
+C:\Users\USUARIO\Desktop\Universidad Fidelitas\Analisis desarollo 2\Proyecto Asume\ASEMU\CapaPresentation\bin\Microsoft.AspNet.FriendlyUrls.xml
+C:\Users\USUARIO\Desktop\Universidad Fidelitas\Analisis desarollo 2\Proyecto Asume\ASEMU\CapaPresentation\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\USUARIO\Desktop\Universidad Fidelitas\Analisis desarollo 2\Proyecto Asume\ASEMU\CapaPresentation\bin\es\System.Web.Optimization.resources.dll
+C:\Users\USUARIO\Desktop\Universidad Fidelitas\Analisis desarollo 2\Proyecto Asume\ASEMU\CapaPresentation\bin\es\Microsoft.AspNet.FriendlyUrls.resources.dll
+C:\Users\USUARIO\Desktop\Universidad Fidelitas\Analisis desarollo 2\Proyecto Asume\ASEMU\CapaPresentation\obj\Debug\CapaPresentacion.csproj.CopyComplete
+C:\Users\Irina Garcia\Downloads\Proyecto ASUME ENCRIIPTA\ASEMU\CapaPresentation\bin\CapaPresentation.dll.config
+C:\Users\Irina Garcia\Downloads\Proyecto ASUME ENCRIIPTA\ASEMU\CapaPresentation\bin\CapaPresentation.dll
+C:\Users\Irina Garcia\Downloads\Proyecto ASUME ENCRIIPTA\ASEMU\CapaPresentation\bin\CapaPresentation.pdb
+C:\Users\Irina Garcia\Downloads\Proyecto ASUME ENCRIIPTA\ASEMU\CapaPresentation\bin\roslyn\csc.exe
+C:\Users\Irina Garcia\Downloads\Proyecto ASUME ENCRIIPTA\ASEMU\CapaPresentation\bin\roslyn\csc.exe.config
+C:\Users\Irina Garcia\Downloads\Proyecto ASUME ENCRIIPTA\ASEMU\CapaPresentation\bin\roslyn\csc.rsp
+C:\Users\Irina Garcia\Downloads\Proyecto ASUME ENCRIIPTA\ASEMU\CapaPresentation\bin\roslyn\csi.exe
+C:\Users\Irina Garcia\Downloads\Proyecto ASUME ENCRIIPTA\ASEMU\CapaPresentation\bin\roslyn\csi.exe.config
+C:\Users\Irina Garcia\Downloads\Proyecto ASUME ENCRIIPTA\ASEMU\CapaPresentation\bin\roslyn\csi.rsp
+C:\Users\Irina Garcia\Downloads\Proyecto ASUME ENCRIIPTA\ASEMU\CapaPresentation\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Irina Garcia\Downloads\Proyecto ASUME ENCRIIPTA\ASEMU\CapaPresentation\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Irina Garcia\Downloads\Proyecto ASUME ENCRIIPTA\ASEMU\CapaPresentation\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Irina Garcia\Downloads\Proyecto ASUME ENCRIIPTA\ASEMU\CapaPresentation\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Irina Garcia\Downloads\Proyecto ASUME ENCRIIPTA\ASEMU\CapaPresentation\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Irina Garcia\Downloads\Proyecto ASUME ENCRIIPTA\ASEMU\CapaPresentation\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Irina Garcia\Downloads\Proyecto ASUME ENCRIIPTA\ASEMU\CapaPresentation\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Irina Garcia\Downloads\Proyecto ASUME ENCRIIPTA\ASEMU\CapaPresentation\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Irina Garcia\Downloads\Proyecto ASUME ENCRIIPTA\ASEMU\CapaPresentation\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Irina Garcia\Downloads\Proyecto ASUME ENCRIIPTA\ASEMU\CapaPresentation\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Irina Garcia\Downloads\Proyecto ASUME ENCRIIPTA\ASEMU\CapaPresentation\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Irina Garcia\Downloads\Proyecto ASUME ENCRIIPTA\ASEMU\CapaPresentation\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Irina Garcia\Downloads\Proyecto ASUME ENCRIIPTA\ASEMU\CapaPresentation\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Irina Garcia\Downloads\Proyecto ASUME ENCRIIPTA\ASEMU\CapaPresentation\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Irina Garcia\Downloads\Proyecto ASUME ENCRIIPTA\ASEMU\CapaPresentation\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\Irina Garcia\Downloads\Proyecto ASUME ENCRIIPTA\ASEMU\CapaPresentation\bin\roslyn\vbc.exe
+C:\Users\Irina Garcia\Downloads\Proyecto ASUME ENCRIIPTA\ASEMU\CapaPresentation\bin\roslyn\vbc.exe.config
+C:\Users\Irina Garcia\Downloads\Proyecto ASUME ENCRIIPTA\ASEMU\CapaPresentation\bin\roslyn\vbc.rsp
+C:\Users\Irina Garcia\Downloads\Proyecto ASUME ENCRIIPTA\ASEMU\CapaPresentation\bin\roslyn\VBCSCompiler.exe
+C:\Users\Irina Garcia\Downloads\Proyecto ASUME ENCRIIPTA\ASEMU\CapaPresentation\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Irina Garcia\Downloads\Proyecto ASUME ENCRIIPTA\ASEMU\CapaPresentation\bin\Antlr3.Runtime.dll
+C:\Users\Irina Garcia\Downloads\Proyecto ASUME ENCRIIPTA\ASEMU\CapaPresentation\bin\AspNet.ScriptManager.bootstrap.dll
+C:\Users\Irina Garcia\Downloads\Proyecto ASUME ENCRIIPTA\ASEMU\CapaPresentation\bin\AspNet.ScriptManager.jQuery.dll
+C:\Users\Irina Garcia\Downloads\Proyecto ASUME ENCRIIPTA\ASEMU\CapaPresentation\bin\Capa Datos.dll
+C:\Users\Irina Garcia\Downloads\Proyecto ASUME ENCRIIPTA\ASEMU\CapaPresentation\bin\Capa Negocios.dll
+C:\Users\Irina Garcia\Downloads\Proyecto ASUME ENCRIIPTA\ASEMU\CapaPresentation\bin\CapaEntidad.dll
+C:\Users\Irina Garcia\Downloads\Proyecto ASUME ENCRIIPTA\ASEMU\CapaPresentation\bin\Microsoft.AspNet.FriendlyUrls.dll
+C:\Users\Irina Garcia\Downloads\Proyecto ASUME ENCRIIPTA\ASEMU\CapaPresentation\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+C:\Users\Irina Garcia\Downloads\Proyecto ASUME ENCRIIPTA\ASEMU\CapaPresentation\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Irina Garcia\Downloads\Proyecto ASUME ENCRIIPTA\ASEMU\CapaPresentation\bin\Microsoft.ScriptManager.MSAjax.dll
+C:\Users\Irina Garcia\Downloads\Proyecto ASUME ENCRIIPTA\ASEMU\CapaPresentation\bin\Microsoft.ScriptManager.WebForms.dll
+C:\Users\Irina Garcia\Downloads\Proyecto ASUME ENCRIIPTA\ASEMU\CapaPresentation\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Irina Garcia\Downloads\Proyecto ASUME ENCRIIPTA\ASEMU\CapaPresentation\bin\Newtonsoft.Json.dll
+C:\Users\Irina Garcia\Downloads\Proyecto ASUME ENCRIIPTA\ASEMU\CapaPresentation\bin\System.Web.Optimization.dll
+C:\Users\Irina Garcia\Downloads\Proyecto ASUME ENCRIIPTA\ASEMU\CapaPresentation\bin\WebGrease.dll
+C:\Users\Irina Garcia\Downloads\Proyecto ASUME ENCRIIPTA\ASEMU\CapaPresentation\bin\Capa Datos.pdb
+C:\Users\Irina Garcia\Downloads\Proyecto ASUME ENCRIIPTA\ASEMU\CapaPresentation\bin\Capa Negocios.pdb
+C:\Users\Irina Garcia\Downloads\Proyecto ASUME ENCRIIPTA\ASEMU\CapaPresentation\bin\CapaEntidad.pdb
+C:\Users\Irina Garcia\Downloads\Proyecto ASUME ENCRIIPTA\ASEMU\CapaPresentation\bin\System.Web.Optimization.xml
+C:\Users\Irina Garcia\Downloads\Proyecto ASUME ENCRIIPTA\ASEMU\CapaPresentation\bin\Newtonsoft.Json.xml
+C:\Users\Irina Garcia\Downloads\Proyecto ASUME ENCRIIPTA\ASEMU\CapaPresentation\bin\Antlr3.Runtime.pdb
+C:\Users\Irina Garcia\Downloads\Proyecto ASUME ENCRIIPTA\ASEMU\CapaPresentation\bin\Microsoft.AspNet.FriendlyUrls.xml
+C:\Users\Irina Garcia\Downloads\Proyecto ASUME ENCRIIPTA\ASEMU\CapaPresentation\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Irina Garcia\Downloads\Proyecto ASUME ENCRIIPTA\ASEMU\CapaPresentation\bin\es\System.Web.Optimization.resources.dll
+C:\Users\Irina Garcia\Downloads\Proyecto ASUME ENCRIIPTA\ASEMU\CapaPresentation\obj\Debug\CapaPresentacion.csprojAssemblyReference.cache
+C:\Users\Irina Garcia\Downloads\Proyecto ASUME ENCRIIPTA\ASEMU\CapaPresentation\obj\Debug\CapaPresentacion.csproj.CoreCompileInputs.cache
+C:\Users\Irina Garcia\Downloads\Proyecto ASUME ENCRIIPTA\ASEMU\CapaPresentation\obj\Debug\CapaPresentacion.csproj.CopyComplete
+C:\Users\Irina Garcia\Downloads\Proyecto ASUME ENCRIIPTA\ASEMU\CapaPresentation\obj\Debug\CapaPresentation.dll
+C:\Users\Irina Garcia\Downloads\Proyecto ASUME ENCRIIPTA\ASEMU\CapaPresentation\obj\Debug\CapaPresentation.pdb
+C:\Users\Irina Garcia\Downloads\Proyecto ASUME ENCRIIPTA\ASEMU\CapaPresentation\bin\roslyn\System.Buffers.dll
+C:\Users\Irina Garcia\Downloads\Proyecto ASUME ENCRIIPTA\ASEMU\CapaPresentation\bin\roslyn\System.Memory.dll
+C:\Users\Irina Garcia\Downloads\Proyecto ASUME ENCRIIPTA\ASEMU\CapaPresentation\bin\roslyn\System.Numerics.Vectors.dll
+C:\Users\Irina Garcia\Downloads\Proyecto ASUME ENCRIIPTA\ASEMU\CapaPresentation\bin\roslyn\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Irina Garcia\Downloads\Proyecto ASUME ENCRIIPTA\ASEMU\CapaPresentation\bin\Microsoft.VisualStudio.CodeCoverage.Shim.dll
+D:\Diseno y Desarollo de Sistemas\Proyecto\Proyecto Programado\19-07-2020\Proyecto ASUME ENCRIIPTA\ASEMU\CapaPresentation\bin\CapaPresentation.dll.config
+D:\Diseno y Desarollo de Sistemas\Proyecto\Proyecto Programado\19-07-2020\Proyecto ASUME ENCRIIPTA\ASEMU\CapaPresentation\bin\CapaPresentation.dll
+D:\Diseno y Desarollo de Sistemas\Proyecto\Proyecto Programado\19-07-2020\Proyecto ASUME ENCRIIPTA\ASEMU\CapaPresentation\bin\CapaPresentation.pdb
+D:\Diseno y Desarollo de Sistemas\Proyecto\Proyecto Programado\19-07-2020\Proyecto ASUME ENCRIIPTA\ASEMU\CapaPresentation\bin\roslyn\csc.exe
+D:\Diseno y Desarollo de Sistemas\Proyecto\Proyecto Programado\19-07-2020\Proyecto ASUME ENCRIIPTA\ASEMU\CapaPresentation\bin\roslyn\csc.exe.config
+D:\Diseno y Desarollo de Sistemas\Proyecto\Proyecto Programado\19-07-2020\Proyecto ASUME ENCRIIPTA\ASEMU\CapaPresentation\bin\roslyn\csc.rsp
+D:\Diseno y Desarollo de Sistemas\Proyecto\Proyecto Programado\19-07-2020\Proyecto ASUME ENCRIIPTA\ASEMU\CapaPresentation\bin\roslyn\csi.exe
+D:\Diseno y Desarollo de Sistemas\Proyecto\Proyecto Programado\19-07-2020\Proyecto ASUME ENCRIIPTA\ASEMU\CapaPresentation\bin\roslyn\csi.exe.config
+D:\Diseno y Desarollo de Sistemas\Proyecto\Proyecto Programado\19-07-2020\Proyecto ASUME ENCRIIPTA\ASEMU\CapaPresentation\bin\roslyn\csi.rsp
+D:\Diseno y Desarollo de Sistemas\Proyecto\Proyecto Programado\19-07-2020\Proyecto ASUME ENCRIIPTA\ASEMU\CapaPresentation\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\Diseno y Desarollo de Sistemas\Proyecto\Proyecto Programado\19-07-2020\Proyecto ASUME ENCRIIPTA\ASEMU\CapaPresentation\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\Diseno y Desarollo de Sistemas\Proyecto\Proyecto Programado\19-07-2020\Proyecto ASUME ENCRIIPTA\ASEMU\CapaPresentation\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\Diseno y Desarollo de Sistemas\Proyecto\Proyecto Programado\19-07-2020\Proyecto ASUME ENCRIIPTA\ASEMU\CapaPresentation\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\Diseno y Desarollo de Sistemas\Proyecto\Proyecto Programado\19-07-2020\Proyecto ASUME ENCRIIPTA\ASEMU\CapaPresentation\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\Diseno y Desarollo de Sistemas\Proyecto\Proyecto Programado\19-07-2020\Proyecto ASUME ENCRIIPTA\ASEMU\CapaPresentation\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\Diseno y Desarollo de Sistemas\Proyecto\Proyecto Programado\19-07-2020\Proyecto ASUME ENCRIIPTA\ASEMU\CapaPresentation\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\Diseno y Desarollo de Sistemas\Proyecto\Proyecto Programado\19-07-2020\Proyecto ASUME ENCRIIPTA\ASEMU\CapaPresentation\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\Diseno y Desarollo de Sistemas\Proyecto\Proyecto Programado\19-07-2020\Proyecto ASUME ENCRIIPTA\ASEMU\CapaPresentation\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\Diseno y Desarollo de Sistemas\Proyecto\Proyecto Programado\19-07-2020\Proyecto ASUME ENCRIIPTA\ASEMU\CapaPresentation\bin\roslyn\Microsoft.Managed.Core.targets
+D:\Diseno y Desarollo de Sistemas\Proyecto\Proyecto Programado\19-07-2020\Proyecto ASUME ENCRIIPTA\ASEMU\CapaPresentation\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\Diseno y Desarollo de Sistemas\Proyecto\Proyecto Programado\19-07-2020\Proyecto ASUME ENCRIIPTA\ASEMU\CapaPresentation\bin\roslyn\System.Buffers.dll
+D:\Diseno y Desarollo de Sistemas\Proyecto\Proyecto Programado\19-07-2020\Proyecto ASUME ENCRIIPTA\ASEMU\CapaPresentation\bin\roslyn\System.Collections.Immutable.dll
+D:\Diseno y Desarollo de Sistemas\Proyecto\Proyecto Programado\19-07-2020\Proyecto ASUME ENCRIIPTA\ASEMU\CapaPresentation\bin\roslyn\System.Memory.dll
+D:\Diseno y Desarollo de Sistemas\Proyecto\Proyecto Programado\19-07-2020\Proyecto ASUME ENCRIIPTA\ASEMU\CapaPresentation\bin\roslyn\System.Numerics.Vectors.dll
+D:\Diseno y Desarollo de Sistemas\Proyecto\Proyecto Programado\19-07-2020\Proyecto ASUME ENCRIIPTA\ASEMU\CapaPresentation\bin\roslyn\System.Reflection.Metadata.dll
+D:\Diseno y Desarollo de Sistemas\Proyecto\Proyecto Programado\19-07-2020\Proyecto ASUME ENCRIIPTA\ASEMU\CapaPresentation\bin\roslyn\System.Runtime.CompilerServices.Unsafe.dll
+D:\Diseno y Desarollo de Sistemas\Proyecto\Proyecto Programado\19-07-2020\Proyecto ASUME ENCRIIPTA\ASEMU\CapaPresentation\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\Diseno y Desarollo de Sistemas\Proyecto\Proyecto Programado\19-07-2020\Proyecto ASUME ENCRIIPTA\ASEMU\CapaPresentation\bin\roslyn\System.Threading.Tasks.Extensions.dll
+D:\Diseno y Desarollo de Sistemas\Proyecto\Proyecto Programado\19-07-2020\Proyecto ASUME ENCRIIPTA\ASEMU\CapaPresentation\bin\roslyn\vbc.exe
+D:\Diseno y Desarollo de Sistemas\Proyecto\Proyecto Programado\19-07-2020\Proyecto ASUME ENCRIIPTA\ASEMU\CapaPresentation\bin\roslyn\vbc.exe.config
+D:\Diseno y Desarollo de Sistemas\Proyecto\Proyecto Programado\19-07-2020\Proyecto ASUME ENCRIIPTA\ASEMU\CapaPresentation\bin\roslyn\vbc.rsp
+D:\Diseno y Desarollo de Sistemas\Proyecto\Proyecto Programado\19-07-2020\Proyecto ASUME ENCRIIPTA\ASEMU\CapaPresentation\bin\roslyn\VBCSCompiler.exe
+D:\Diseno y Desarollo de Sistemas\Proyecto\Proyecto Programado\19-07-2020\Proyecto ASUME ENCRIIPTA\ASEMU\CapaPresentation\bin\roslyn\VBCSCompiler.exe.config
+D:\Diseno y Desarollo de Sistemas\Proyecto\Proyecto Programado\19-07-2020\Proyecto ASUME ENCRIIPTA\ASEMU\CapaPresentation\bin\Antlr3.Runtime.dll
+D:\Diseno y Desarollo de Sistemas\Proyecto\Proyecto Programado\19-07-2020\Proyecto ASUME ENCRIIPTA\ASEMU\CapaPresentation\bin\AspNet.ScriptManager.bootstrap.dll
+D:\Diseno y Desarollo de Sistemas\Proyecto\Proyecto Programado\19-07-2020\Proyecto ASUME ENCRIIPTA\ASEMU\CapaPresentation\bin\AspNet.ScriptManager.jQuery.dll
+D:\Diseno y Desarollo de Sistemas\Proyecto\Proyecto Programado\19-07-2020\Proyecto ASUME ENCRIIPTA\ASEMU\CapaPresentation\bin\Capa Datos.dll
+D:\Diseno y Desarollo de Sistemas\Proyecto\Proyecto Programado\19-07-2020\Proyecto ASUME ENCRIIPTA\ASEMU\CapaPresentation\bin\Capa Negocios.dll
+D:\Diseno y Desarollo de Sistemas\Proyecto\Proyecto Programado\19-07-2020\Proyecto ASUME ENCRIIPTA\ASEMU\CapaPresentation\bin\CapaEntidad.dll
+D:\Diseno y Desarollo de Sistemas\Proyecto\Proyecto Programado\19-07-2020\Proyecto ASUME ENCRIIPTA\ASEMU\CapaPresentation\bin\Microsoft.AspNet.FriendlyUrls.dll
+D:\Diseno y Desarollo de Sistemas\Proyecto\Proyecto Programado\19-07-2020\Proyecto ASUME ENCRIIPTA\ASEMU\CapaPresentation\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+D:\Diseno y Desarollo de Sistemas\Proyecto\Proyecto Programado\19-07-2020\Proyecto ASUME ENCRIIPTA\ASEMU\CapaPresentation\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\Diseno y Desarollo de Sistemas\Proyecto\Proyecto Programado\19-07-2020\Proyecto ASUME ENCRIIPTA\ASEMU\CapaPresentation\bin\Microsoft.ScriptManager.MSAjax.dll
+D:\Diseno y Desarollo de Sistemas\Proyecto\Proyecto Programado\19-07-2020\Proyecto ASUME ENCRIIPTA\ASEMU\CapaPresentation\bin\Microsoft.ScriptManager.WebForms.dll
+D:\Diseno y Desarollo de Sistemas\Proyecto\Proyecto Programado\19-07-2020\Proyecto ASUME ENCRIIPTA\ASEMU\CapaPresentation\bin\Microsoft.VisualStudio.CodeCoverage.Shim.dll
+D:\Diseno y Desarollo de Sistemas\Proyecto\Proyecto Programado\19-07-2020\Proyecto ASUME ENCRIIPTA\ASEMU\CapaPresentation\bin\Microsoft.Web.Infrastructure.dll
+D:\Diseno y Desarollo de Sistemas\Proyecto\Proyecto Programado\19-07-2020\Proyecto ASUME ENCRIIPTA\ASEMU\CapaPresentation\bin\Newtonsoft.Json.dll
+D:\Diseno y Desarollo de Sistemas\Proyecto\Proyecto Programado\19-07-2020\Proyecto ASUME ENCRIIPTA\ASEMU\CapaPresentation\bin\System.Web.Optimization.dll
+D:\Diseno y Desarollo de Sistemas\Proyecto\Proyecto Programado\19-07-2020\Proyecto ASUME ENCRIIPTA\ASEMU\CapaPresentation\bin\WebGrease.dll
+D:\Diseno y Desarollo de Sistemas\Proyecto\Proyecto Programado\19-07-2020\Proyecto ASUME ENCRIIPTA\ASEMU\CapaPresentation\bin\Capa Datos.pdb
+D:\Diseno y Desarollo de Sistemas\Proyecto\Proyecto Programado\19-07-2020\Proyecto ASUME ENCRIIPTA\ASEMU\CapaPresentation\bin\Capa Negocios.pdb
+D:\Diseno y Desarollo de Sistemas\Proyecto\Proyecto Programado\19-07-2020\Proyecto ASUME ENCRIIPTA\ASEMU\CapaPresentation\bin\CapaEntidad.pdb
+D:\Diseno y Desarollo de Sistemas\Proyecto\Proyecto Programado\19-07-2020\Proyecto ASUME ENCRIIPTA\ASEMU\CapaPresentation\bin\Microsoft.AspNet.FriendlyUrls.xml
+D:\Diseno y Desarollo de Sistemas\Proyecto\Proyecto Programado\19-07-2020\Proyecto ASUME ENCRIIPTA\ASEMU\CapaPresentation\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\Diseno y Desarollo de Sistemas\Proyecto\Proyecto Programado\19-07-2020\Proyecto ASUME ENCRIIPTA\ASEMU\CapaPresentation\bin\Newtonsoft.Json.xml
+D:\Diseno y Desarollo de Sistemas\Proyecto\Proyecto Programado\19-07-2020\Proyecto ASUME ENCRIIPTA\ASEMU\CapaPresentation\bin\System.Web.Optimization.xml
+D:\Diseno y Desarollo de Sistemas\Proyecto\Proyecto Programado\19-07-2020\Proyecto ASUME ENCRIIPTA\ASEMU\CapaPresentation\bin\Antlr3.Runtime.pdb
+D:\Diseno y Desarollo de Sistemas\Proyecto\Proyecto Programado\19-07-2020\Proyecto ASUME ENCRIIPTA\ASEMU\CapaPresentation\bin\es\System.Web.Optimization.resources.dll
+D:\Diseno y Desarollo de Sistemas\Proyecto\Proyecto Programado\19-07-2020\Proyecto ASUME ENCRIIPTA\ASEMU\CapaPresentation\obj\Debug\CapaPresentacion.csprojAssemblyReference.cache
+D:\Diseno y Desarollo de Sistemas\Proyecto\Proyecto Programado\19-07-2020\Proyecto ASUME ENCRIIPTA\ASEMU\CapaPresentation\obj\Debug\CapaPresentacion.csproj.CoreCompileInputs.cache
+D:\Diseno y Desarollo de Sistemas\Proyecto\Proyecto Programado\19-07-2020\Proyecto ASUME ENCRIIPTA\ASEMU\CapaPresentation\obj\Debug\CapaPresentacion.csproj.CopyComplete
+D:\Diseno y Desarollo de Sistemas\Proyecto\Proyecto Programado\19-07-2020\Proyecto ASUME ENCRIIPTA\ASEMU\CapaPresentation\obj\Debug\CapaPresentation.dll
+D:\Diseno y Desarollo de Sistemas\Proyecto\Proyecto Programado\19-07-2020\Proyecto ASUME ENCRIIPTA\ASEMU\CapaPresentation\obj\Debug\CapaPresentation.pdb
+C:\Users\USUARIO\Desktop\Universidad Fidelitas\Analisis desarollo 2\Proyecto Asume\Proyecto Asume v8\ASEMU\CapaPresentation\obj\Debug\CapaPresentacion.csprojAssemblyReference.cache
+C:\Users\USUARIO\Desktop\Universidad Fidelitas\Analisis desarollo 2\Proyecto Asume\Proyecto Asume v8\ASEMU\CapaPresentation\obj\Debug\CapaPresentacion.csproj.CoreCompileInputs.cache
+C:\Users\USUARIO\Desktop\Universidad Fidelitas\Analisis desarollo 2\Proyecto Asume\Proyecto Asume v8\ASEMU\CapaPresentation\obj\Debug\CapaPresentation.dll
+C:\Users\USUARIO\Desktop\Universidad Fidelitas\Analisis desarollo 2\Proyecto Asume\Proyecto Asume v8\ASEMU\CapaPresentation\obj\Debug\CapaPresentation.pdb
+C:\Users\USUARIO\Desktop\Universidad Fidelitas\Analisis desarollo 2\Proyecto Asume\Proyecto Asume v8\ASEMU\CapaPresentation\bin\CapaPresentation.dll.config
+C:\Users\USUARIO\Desktop\Universidad Fidelitas\Analisis desarollo 2\Proyecto Asume\Proyecto Asume v8\ASEMU\CapaPresentation\bin\CapaPresentation.dll
+C:\Users\USUARIO\Desktop\Universidad Fidelitas\Analisis desarollo 2\Proyecto Asume\Proyecto Asume v8\ASEMU\CapaPresentation\bin\CapaPresentation.pdb
+C:\Users\USUARIO\Desktop\Universidad Fidelitas\Analisis desarollo 2\Proyecto Asume\Proyecto Asume v8\ASEMU\CapaPresentation\bin\roslyn\csc.exe
+C:\Users\USUARIO\Desktop\Universidad Fidelitas\Analisis desarollo 2\Proyecto Asume\Proyecto Asume v8\ASEMU\CapaPresentation\bin\roslyn\csc.exe.config
+C:\Users\USUARIO\Desktop\Universidad Fidelitas\Analisis desarollo 2\Proyecto Asume\Proyecto Asume v8\ASEMU\CapaPresentation\bin\roslyn\csc.rsp
+C:\Users\USUARIO\Desktop\Universidad Fidelitas\Analisis desarollo 2\Proyecto Asume\Proyecto Asume v8\ASEMU\CapaPresentation\bin\roslyn\csi.exe
+C:\Users\USUARIO\Desktop\Universidad Fidelitas\Analisis desarollo 2\Proyecto Asume\Proyecto Asume v8\ASEMU\CapaPresentation\bin\roslyn\csi.exe.config
+C:\Users\USUARIO\Desktop\Universidad Fidelitas\Analisis desarollo 2\Proyecto Asume\Proyecto Asume v8\ASEMU\CapaPresentation\bin\roslyn\csi.rsp
+C:\Users\USUARIO\Desktop\Universidad Fidelitas\Analisis desarollo 2\Proyecto Asume\Proyecto Asume v8\ASEMU\CapaPresentation\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\USUARIO\Desktop\Universidad Fidelitas\Analisis desarollo 2\Proyecto Asume\Proyecto Asume v8\ASEMU\CapaPresentation\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\USUARIO\Desktop\Universidad Fidelitas\Analisis desarollo 2\Proyecto Asume\Proyecto Asume v8\ASEMU\CapaPresentation\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\USUARIO\Desktop\Universidad Fidelitas\Analisis desarollo 2\Proyecto Asume\Proyecto Asume v8\ASEMU\CapaPresentation\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\USUARIO\Desktop\Universidad Fidelitas\Analisis desarollo 2\Proyecto Asume\Proyecto Asume v8\ASEMU\CapaPresentation\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\USUARIO\Desktop\Universidad Fidelitas\Analisis desarollo 2\Proyecto Asume\Proyecto Asume v8\ASEMU\CapaPresentation\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\USUARIO\Desktop\Universidad Fidelitas\Analisis desarollo 2\Proyecto Asume\Proyecto Asume v8\ASEMU\CapaPresentation\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\USUARIO\Desktop\Universidad Fidelitas\Analisis desarollo 2\Proyecto Asume\Proyecto Asume v8\ASEMU\CapaPresentation\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\USUARIO\Desktop\Universidad Fidelitas\Analisis desarollo 2\Proyecto Asume\Proyecto Asume v8\ASEMU\CapaPresentation\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\USUARIO\Desktop\Universidad Fidelitas\Analisis desarollo 2\Proyecto Asume\Proyecto Asume v8\ASEMU\CapaPresentation\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\USUARIO\Desktop\Universidad Fidelitas\Analisis desarollo 2\Proyecto Asume\Proyecto Asume v8\ASEMU\CapaPresentation\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\USUARIO\Desktop\Universidad Fidelitas\Analisis desarollo 2\Proyecto Asume\Proyecto Asume v8\ASEMU\CapaPresentation\bin\roslyn\System.Buffers.dll
+C:\Users\USUARIO\Desktop\Universidad Fidelitas\Analisis desarollo 2\Proyecto Asume\Proyecto Asume v8\ASEMU\CapaPresentation\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\USUARIO\Desktop\Universidad Fidelitas\Analisis desarollo 2\Proyecto Asume\Proyecto Asume v8\ASEMU\CapaPresentation\bin\roslyn\System.Memory.dll
+C:\Users\USUARIO\Desktop\Universidad Fidelitas\Analisis desarollo 2\Proyecto Asume\Proyecto Asume v8\ASEMU\CapaPresentation\bin\roslyn\System.Numerics.Vectors.dll
+C:\Users\USUARIO\Desktop\Universidad Fidelitas\Analisis desarollo 2\Proyecto Asume\Proyecto Asume v8\ASEMU\CapaPresentation\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\USUARIO\Desktop\Universidad Fidelitas\Analisis desarollo 2\Proyecto Asume\Proyecto Asume v8\ASEMU\CapaPresentation\bin\roslyn\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\USUARIO\Desktop\Universidad Fidelitas\Analisis desarollo 2\Proyecto Asume\Proyecto Asume v8\ASEMU\CapaPresentation\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\USUARIO\Desktop\Universidad Fidelitas\Analisis desarollo 2\Proyecto Asume\Proyecto Asume v8\ASEMU\CapaPresentation\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\USUARIO\Desktop\Universidad Fidelitas\Analisis desarollo 2\Proyecto Asume\Proyecto Asume v8\ASEMU\CapaPresentation\bin\roslyn\vbc.exe
+C:\Users\USUARIO\Desktop\Universidad Fidelitas\Analisis desarollo 2\Proyecto Asume\Proyecto Asume v8\ASEMU\CapaPresentation\bin\roslyn\vbc.exe.config
+C:\Users\USUARIO\Desktop\Universidad Fidelitas\Analisis desarollo 2\Proyecto Asume\Proyecto Asume v8\ASEMU\CapaPresentation\bin\roslyn\vbc.rsp
+C:\Users\USUARIO\Desktop\Universidad Fidelitas\Analisis desarollo 2\Proyecto Asume\Proyecto Asume v8\ASEMU\CapaPresentation\bin\roslyn\VBCSCompiler.exe
+C:\Users\USUARIO\Desktop\Universidad Fidelitas\Analisis desarollo 2\Proyecto Asume\Proyecto Asume v8\ASEMU\CapaPresentation\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\USUARIO\Desktop\Universidad Fidelitas\Analisis desarollo 2\Proyecto Asume\Proyecto Asume v8\ASEMU\CapaPresentation\bin\Antlr3.Runtime.dll
+C:\Users\USUARIO\Desktop\Universidad Fidelitas\Analisis desarollo 2\Proyecto Asume\Proyecto Asume v8\ASEMU\CapaPresentation\bin\AspNet.ScriptManager.bootstrap.dll
+C:\Users\USUARIO\Desktop\Universidad Fidelitas\Analisis desarollo 2\Proyecto Asume\Proyecto Asume v8\ASEMU\CapaPresentation\bin\AspNet.ScriptManager.jQuery.dll
+C:\Users\USUARIO\Desktop\Universidad Fidelitas\Analisis desarollo 2\Proyecto Asume\Proyecto Asume v8\ASEMU\CapaPresentation\bin\Capa Datos.dll
+C:\Users\USUARIO\Desktop\Universidad Fidelitas\Analisis desarollo 2\Proyecto Asume\Proyecto Asume v8\ASEMU\CapaPresentation\bin\Capa Negocios.dll
+C:\Users\USUARIO\Desktop\Universidad Fidelitas\Analisis desarollo 2\Proyecto Asume\Proyecto Asume v8\ASEMU\CapaPresentation\bin\CapaEntidad.dll
+C:\Users\USUARIO\Desktop\Universidad Fidelitas\Analisis desarollo 2\Proyecto Asume\Proyecto Asume v8\ASEMU\CapaPresentation\bin\Microsoft.AspNet.FriendlyUrls.dll
+C:\Users\USUARIO\Desktop\Universidad Fidelitas\Analisis desarollo 2\Proyecto Asume\Proyecto Asume v8\ASEMU\CapaPresentation\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+C:\Users\USUARIO\Desktop\Universidad Fidelitas\Analisis desarollo 2\Proyecto Asume\Proyecto Asume v8\ASEMU\CapaPresentation\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\USUARIO\Desktop\Universidad Fidelitas\Analisis desarollo 2\Proyecto Asume\Proyecto Asume v8\ASEMU\CapaPresentation\bin\Microsoft.ScriptManager.MSAjax.dll
+C:\Users\USUARIO\Desktop\Universidad Fidelitas\Analisis desarollo 2\Proyecto Asume\Proyecto Asume v8\ASEMU\CapaPresentation\bin\Microsoft.ScriptManager.WebForms.dll
+C:\Users\USUARIO\Desktop\Universidad Fidelitas\Analisis desarollo 2\Proyecto Asume\Proyecto Asume v8\ASEMU\CapaPresentation\bin\Microsoft.VisualStudio.CodeCoverage.Shim.dll
+C:\Users\USUARIO\Desktop\Universidad Fidelitas\Analisis desarollo 2\Proyecto Asume\Proyecto Asume v8\ASEMU\CapaPresentation\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\USUARIO\Desktop\Universidad Fidelitas\Analisis desarollo 2\Proyecto Asume\Proyecto Asume v8\ASEMU\CapaPresentation\bin\Newtonsoft.Json.dll
+C:\Users\USUARIO\Desktop\Universidad Fidelitas\Analisis desarollo 2\Proyecto Asume\Proyecto Asume v8\ASEMU\CapaPresentation\bin\System.Web.Optimization.dll
+C:\Users\USUARIO\Desktop\Universidad Fidelitas\Analisis desarollo 2\Proyecto Asume\Proyecto Asume v8\ASEMU\CapaPresentation\bin\WebGrease.dll
+C:\Users\USUARIO\Desktop\Universidad Fidelitas\Analisis desarollo 2\Proyecto Asume\Proyecto Asume v8\ASEMU\CapaPresentation\bin\Capa Datos.pdb
+C:\Users\USUARIO\Desktop\Universidad Fidelitas\Analisis desarollo 2\Proyecto Asume\Proyecto Asume v8\ASEMU\CapaPresentation\bin\Capa Negocios.pdb
+C:\Users\USUARIO\Desktop\Universidad Fidelitas\Analisis desarollo 2\Proyecto Asume\Proyecto Asume v8\ASEMU\CapaPresentation\bin\CapaEntidad.pdb
+C:\Users\USUARIO\Desktop\Universidad Fidelitas\Analisis desarollo 2\Proyecto Asume\Proyecto Asume v8\ASEMU\CapaPresentation\bin\Microsoft.AspNet.FriendlyUrls.xml
+C:\Users\USUARIO\Desktop\Universidad Fidelitas\Analisis desarollo 2\Proyecto Asume\Proyecto Asume v8\ASEMU\CapaPresentation\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\USUARIO\Desktop\Universidad Fidelitas\Analisis desarollo 2\Proyecto Asume\Proyecto Asume v8\ASEMU\CapaPresentation\bin\Newtonsoft.Json.xml
+C:\Users\USUARIO\Desktop\Universidad Fidelitas\Analisis desarollo 2\Proyecto Asume\Proyecto Asume v8\ASEMU\CapaPresentation\bin\System.Web.Optimization.xml
+C:\Users\USUARIO\Desktop\Universidad Fidelitas\Analisis desarollo 2\Proyecto Asume\Proyecto Asume v8\ASEMU\CapaPresentation\bin\Antlr3.Runtime.pdb
+C:\Users\USUARIO\Desktop\Universidad Fidelitas\Analisis desarollo 2\Proyecto Asume\Proyecto Asume v8\ASEMU\CapaPresentation\bin\es\System.Web.Optimization.resources.dll
+C:\Users\USUARIO\Desktop\Universidad Fidelitas\Analisis desarollo 2\Proyecto Asume\Proyecto Asume v8\ASEMU\CapaPresentation\obj\Debug\CapaPresentacion.csproj.CopyComplete
+C:\Users\USUARIO\Desktop\Universidad Fidelitas\Analisis desarollo 2\Proyecto Asume\Proyecto Asemu v9\ASEMU\CapaPresentation\bin\CapaPresentation.dll.config
+C:\Users\USUARIO\Desktop\Universidad Fidelitas\Analisis desarollo 2\Proyecto Asume\Proyecto Asemu v9\ASEMU\CapaPresentation\bin\CapaPresentation.dll
+C:\Users\USUARIO\Desktop\Universidad Fidelitas\Analisis desarollo 2\Proyecto Asume\Proyecto Asemu v9\ASEMU\CapaPresentation\bin\CapaPresentation.pdb
+C:\Users\USUARIO\Desktop\Universidad Fidelitas\Analisis desarollo 2\Proyecto Asume\Proyecto Asemu v9\ASEMU\CapaPresentation\bin\roslyn\csc.exe
+C:\Users\USUARIO\Desktop\Universidad Fidelitas\Analisis desarollo 2\Proyecto Asume\Proyecto Asemu v9\ASEMU\CapaPresentation\bin\roslyn\csc.exe.config
+C:\Users\USUARIO\Desktop\Universidad Fidelitas\Analisis desarollo 2\Proyecto Asume\Proyecto Asemu v9\ASEMU\CapaPresentation\bin\roslyn\csc.rsp
+C:\Users\USUARIO\Desktop\Universidad Fidelitas\Analisis desarollo 2\Proyecto Asume\Proyecto Asemu v9\ASEMU\CapaPresentation\bin\roslyn\csi.exe
+C:\Users\USUARIO\Desktop\Universidad Fidelitas\Analisis desarollo 2\Proyecto Asume\Proyecto Asemu v9\ASEMU\CapaPresentation\bin\roslyn\csi.exe.config
+C:\Users\USUARIO\Desktop\Universidad Fidelitas\Analisis desarollo 2\Proyecto Asume\Proyecto Asemu v9\ASEMU\CapaPresentation\bin\roslyn\csi.rsp
+C:\Users\USUARIO\Desktop\Universidad Fidelitas\Analisis desarollo 2\Proyecto Asume\Proyecto Asemu v9\ASEMU\CapaPresentation\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\USUARIO\Desktop\Universidad Fidelitas\Analisis desarollo 2\Proyecto Asume\Proyecto Asemu v9\ASEMU\CapaPresentation\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\USUARIO\Desktop\Universidad Fidelitas\Analisis desarollo 2\Proyecto Asume\Proyecto Asemu v9\ASEMU\CapaPresentation\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\USUARIO\Desktop\Universidad Fidelitas\Analisis desarollo 2\Proyecto Asume\Proyecto Asemu v9\ASEMU\CapaPresentation\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\USUARIO\Desktop\Universidad Fidelitas\Analisis desarollo 2\Proyecto Asume\Proyecto Asemu v9\ASEMU\CapaPresentation\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\USUARIO\Desktop\Universidad Fidelitas\Analisis desarollo 2\Proyecto Asume\Proyecto Asemu v9\ASEMU\CapaPresentation\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\USUARIO\Desktop\Universidad Fidelitas\Analisis desarollo 2\Proyecto Asume\Proyecto Asemu v9\ASEMU\CapaPresentation\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\USUARIO\Desktop\Universidad Fidelitas\Analisis desarollo 2\Proyecto Asume\Proyecto Asemu v9\ASEMU\CapaPresentation\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\USUARIO\Desktop\Universidad Fidelitas\Analisis desarollo 2\Proyecto Asume\Proyecto Asemu v9\ASEMU\CapaPresentation\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\USUARIO\Desktop\Universidad Fidelitas\Analisis desarollo 2\Proyecto Asume\Proyecto Asemu v9\ASEMU\CapaPresentation\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\USUARIO\Desktop\Universidad Fidelitas\Analisis desarollo 2\Proyecto Asume\Proyecto Asemu v9\ASEMU\CapaPresentation\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\USUARIO\Desktop\Universidad Fidelitas\Analisis desarollo 2\Proyecto Asume\Proyecto Asemu v9\ASEMU\CapaPresentation\bin\roslyn\System.Buffers.dll
+C:\Users\USUARIO\Desktop\Universidad Fidelitas\Analisis desarollo 2\Proyecto Asume\Proyecto Asemu v9\ASEMU\CapaPresentation\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\USUARIO\Desktop\Universidad Fidelitas\Analisis desarollo 2\Proyecto Asume\Proyecto Asemu v9\ASEMU\CapaPresentation\bin\roslyn\System.Memory.dll
+C:\Users\USUARIO\Desktop\Universidad Fidelitas\Analisis desarollo 2\Proyecto Asume\Proyecto Asemu v9\ASEMU\CapaPresentation\bin\roslyn\System.Numerics.Vectors.dll
+C:\Users\USUARIO\Desktop\Universidad Fidelitas\Analisis desarollo 2\Proyecto Asume\Proyecto Asemu v9\ASEMU\CapaPresentation\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\USUARIO\Desktop\Universidad Fidelitas\Analisis desarollo 2\Proyecto Asume\Proyecto Asemu v9\ASEMU\CapaPresentation\bin\roslyn\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\USUARIO\Desktop\Universidad Fidelitas\Analisis desarollo 2\Proyecto Asume\Proyecto Asemu v9\ASEMU\CapaPresentation\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\USUARIO\Desktop\Universidad Fidelitas\Analisis desarollo 2\Proyecto Asume\Proyecto Asemu v9\ASEMU\CapaPresentation\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\USUARIO\Desktop\Universidad Fidelitas\Analisis desarollo 2\Proyecto Asume\Proyecto Asemu v9\ASEMU\CapaPresentation\bin\roslyn\vbc.exe
+C:\Users\USUARIO\Desktop\Universidad Fidelitas\Analisis desarollo 2\Proyecto Asume\Proyecto Asemu v9\ASEMU\CapaPresentation\bin\roslyn\vbc.exe.config
+C:\Users\USUARIO\Desktop\Universidad Fidelitas\Analisis desarollo 2\Proyecto Asume\Proyecto Asemu v9\ASEMU\CapaPresentation\bin\roslyn\vbc.rsp
+C:\Users\USUARIO\Desktop\Universidad Fidelitas\Analisis desarollo 2\Proyecto Asume\Proyecto Asemu v9\ASEMU\CapaPresentation\bin\roslyn\VBCSCompiler.exe
+C:\Users\USUARIO\Desktop\Universidad Fidelitas\Analisis desarollo 2\Proyecto Asume\Proyecto Asemu v9\ASEMU\CapaPresentation\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\USUARIO\Desktop\Universidad Fidelitas\Analisis desarollo 2\Proyecto Asume\Proyecto Asemu v9\ASEMU\CapaPresentation\bin\Antlr3.Runtime.dll
+C:\Users\USUARIO\Desktop\Universidad Fidelitas\Analisis desarollo 2\Proyecto Asume\Proyecto Asemu v9\ASEMU\CapaPresentation\bin\AspNet.ScriptManager.bootstrap.dll
+C:\Users\USUARIO\Desktop\Universidad Fidelitas\Analisis desarollo 2\Proyecto Asume\Proyecto Asemu v9\ASEMU\CapaPresentation\bin\AspNet.ScriptManager.jQuery.dll
+C:\Users\USUARIO\Desktop\Universidad Fidelitas\Analisis desarollo 2\Proyecto Asume\Proyecto Asemu v9\ASEMU\CapaPresentation\bin\Capa Datos.dll
+C:\Users\USUARIO\Desktop\Universidad Fidelitas\Analisis desarollo 2\Proyecto Asume\Proyecto Asemu v9\ASEMU\CapaPresentation\bin\Capa Negocios.dll
+C:\Users\USUARIO\Desktop\Universidad Fidelitas\Analisis desarollo 2\Proyecto Asume\Proyecto Asemu v9\ASEMU\CapaPresentation\bin\CapaEntidad.dll
+C:\Users\USUARIO\Desktop\Universidad Fidelitas\Analisis desarollo 2\Proyecto Asume\Proyecto Asemu v9\ASEMU\CapaPresentation\bin\Microsoft.AspNet.FriendlyUrls.dll
+C:\Users\USUARIO\Desktop\Universidad Fidelitas\Analisis desarollo 2\Proyecto Asume\Proyecto Asemu v9\ASEMU\CapaPresentation\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+C:\Users\USUARIO\Desktop\Universidad Fidelitas\Analisis desarollo 2\Proyecto Asume\Proyecto Asemu v9\ASEMU\CapaPresentation\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\USUARIO\Desktop\Universidad Fidelitas\Analisis desarollo 2\Proyecto Asume\Proyecto Asemu v9\ASEMU\CapaPresentation\bin\Microsoft.ScriptManager.MSAjax.dll
+C:\Users\USUARIO\Desktop\Universidad Fidelitas\Analisis desarollo 2\Proyecto Asume\Proyecto Asemu v9\ASEMU\CapaPresentation\bin\Microsoft.ScriptManager.WebForms.dll
+C:\Users\USUARIO\Desktop\Universidad Fidelitas\Analisis desarollo 2\Proyecto Asume\Proyecto Asemu v9\ASEMU\CapaPresentation\bin\Microsoft.VisualStudio.CodeCoverage.Shim.dll
+C:\Users\USUARIO\Desktop\Universidad Fidelitas\Analisis desarollo 2\Proyecto Asume\Proyecto Asemu v9\ASEMU\CapaPresentation\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\USUARIO\Desktop\Universidad Fidelitas\Analisis desarollo 2\Proyecto Asume\Proyecto Asemu v9\ASEMU\CapaPresentation\bin\Newtonsoft.Json.dll
+C:\Users\USUARIO\Desktop\Universidad Fidelitas\Analisis desarollo 2\Proyecto Asume\Proyecto Asemu v9\ASEMU\CapaPresentation\bin\System.Web.Optimization.dll
+C:\Users\USUARIO\Desktop\Universidad Fidelitas\Analisis desarollo 2\Proyecto Asume\Proyecto Asemu v9\ASEMU\CapaPresentation\bin\WebGrease.dll
+C:\Users\USUARIO\Desktop\Universidad Fidelitas\Analisis desarollo 2\Proyecto Asume\Proyecto Asemu v9\ASEMU\CapaPresentation\bin\Capa Datos.pdb
+C:\Users\USUARIO\Desktop\Universidad Fidelitas\Analisis desarollo 2\Proyecto Asume\Proyecto Asemu v9\ASEMU\CapaPresentation\bin\Capa Negocios.pdb
+C:\Users\USUARIO\Desktop\Universidad Fidelitas\Analisis desarollo 2\Proyecto Asume\Proyecto Asemu v9\ASEMU\CapaPresentation\bin\CapaEntidad.pdb
+C:\Users\USUARIO\Desktop\Universidad Fidelitas\Analisis desarollo 2\Proyecto Asume\Proyecto Asemu v9\ASEMU\CapaPresentation\bin\Microsoft.AspNet.FriendlyUrls.xml
+C:\Users\USUARIO\Desktop\Universidad Fidelitas\Analisis desarollo 2\Proyecto Asume\Proyecto Asemu v9\ASEMU\CapaPresentation\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\USUARIO\Desktop\Universidad Fidelitas\Analisis desarollo 2\Proyecto Asume\Proyecto Asemu v9\ASEMU\CapaPresentation\bin\Newtonsoft.Json.xml
+C:\Users\USUARIO\Desktop\Universidad Fidelitas\Analisis desarollo 2\Proyecto Asume\Proyecto Asemu v9\ASEMU\CapaPresentation\bin\System.Web.Optimization.xml
+C:\Users\USUARIO\Desktop\Universidad Fidelitas\Analisis desarollo 2\Proyecto Asume\Proyecto Asemu v9\ASEMU\CapaPresentation\bin\Antlr3.Runtime.pdb
+C:\Users\USUARIO\Desktop\Universidad Fidelitas\Analisis desarollo 2\Proyecto Asume\Proyecto Asemu v9\ASEMU\CapaPresentation\bin\es\System.Web.Optimization.resources.dll
+C:\Users\USUARIO\Desktop\Universidad Fidelitas\Analisis desarollo 2\Proyecto Asume\Proyecto Asemu v9\ASEMU\CapaPresentation\obj\Debug\CapaPresentacion.csprojAssemblyReference.cache
+C:\Users\USUARIO\Desktop\Universidad Fidelitas\Analisis desarollo 2\Proyecto Asume\Proyecto Asemu v9\ASEMU\CapaPresentation\obj\Debug\CapaPresentacion.csproj.CoreCompileInputs.cache
+C:\Users\USUARIO\Desktop\Universidad Fidelitas\Analisis desarollo 2\Proyecto Asume\Proyecto Asemu v9\ASEMU\CapaPresentation\obj\Debug\CapaPresentacion.csproj.CopyComplete
+C:\Users\USUARIO\Desktop\Universidad Fidelitas\Analisis desarollo 2\Proyecto Asume\Proyecto Asemu v9\ASEMU\CapaPresentation\obj\Debug\CapaPresentation.dll
+C:\Users\USUARIO\Desktop\Universidad Fidelitas\Analisis desarollo 2\Proyecto Asume\Proyecto Asemu v9\ASEMU\CapaPresentation\obj\Debug\CapaPresentation.pdb
+C:\Users\Irina Garcia\Downloads\ASEMU\CapaPresentation\bin\CapaPresentation.dll.config
+C:\Users\Irina Garcia\Downloads\ASEMU\CapaPresentation\bin\CapaPresentation.dll
+C:\Users\Irina Garcia\Downloads\ASEMU\CapaPresentation\bin\CapaPresentation.pdb
+C:\Users\Irina Garcia\Downloads\ASEMU\CapaPresentation\bin\roslyn\csc.exe
+C:\Users\Irina Garcia\Downloads\ASEMU\CapaPresentation\bin\roslyn\csc.exe.config
+C:\Users\Irina Garcia\Downloads\ASEMU\CapaPresentation\bin\roslyn\csc.rsp
+C:\Users\Irina Garcia\Downloads\ASEMU\CapaPresentation\bin\roslyn\csi.exe
+C:\Users\Irina Garcia\Downloads\ASEMU\CapaPresentation\bin\roslyn\csi.exe.config
+C:\Users\Irina Garcia\Downloads\ASEMU\CapaPresentation\bin\roslyn\csi.rsp
+C:\Users\Irina Garcia\Downloads\ASEMU\CapaPresentation\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Irina Garcia\Downloads\ASEMU\CapaPresentation\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Irina Garcia\Downloads\ASEMU\CapaPresentation\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Irina Garcia\Downloads\ASEMU\CapaPresentation\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Irina Garcia\Downloads\ASEMU\CapaPresentation\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Irina Garcia\Downloads\ASEMU\CapaPresentation\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Irina Garcia\Downloads\ASEMU\CapaPresentation\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Irina Garcia\Downloads\ASEMU\CapaPresentation\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Irina Garcia\Downloads\ASEMU\CapaPresentation\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Irina Garcia\Downloads\ASEMU\CapaPresentation\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Irina Garcia\Downloads\ASEMU\CapaPresentation\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Irina Garcia\Downloads\ASEMU\CapaPresentation\bin\roslyn\System.Buffers.dll
+C:\Users\Irina Garcia\Downloads\ASEMU\CapaPresentation\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Irina Garcia\Downloads\ASEMU\CapaPresentation\bin\roslyn\System.Memory.dll
+C:\Users\Irina Garcia\Downloads\ASEMU\CapaPresentation\bin\roslyn\System.Numerics.Vectors.dll
+C:\Users\Irina Garcia\Downloads\ASEMU\CapaPresentation\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Irina Garcia\Downloads\ASEMU\CapaPresentation\bin\roslyn\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Irina Garcia\Downloads\ASEMU\CapaPresentation\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Irina Garcia\Downloads\ASEMU\CapaPresentation\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\Irina Garcia\Downloads\ASEMU\CapaPresentation\bin\roslyn\vbc.exe
+C:\Users\Irina Garcia\Downloads\ASEMU\CapaPresentation\bin\roslyn\vbc.exe.config
+C:\Users\Irina Garcia\Downloads\ASEMU\CapaPresentation\bin\roslyn\vbc.rsp
+C:\Users\Irina Garcia\Downloads\ASEMU\CapaPresentation\bin\roslyn\VBCSCompiler.exe
+C:\Users\Irina Garcia\Downloads\ASEMU\CapaPresentation\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Irina Garcia\Downloads\ASEMU\CapaPresentation\bin\Antlr3.Runtime.dll
+C:\Users\Irina Garcia\Downloads\ASEMU\CapaPresentation\bin\AspNet.ScriptManager.bootstrap.dll
+C:\Users\Irina Garcia\Downloads\ASEMU\CapaPresentation\bin\AspNet.ScriptManager.jQuery.dll
+C:\Users\Irina Garcia\Downloads\ASEMU\CapaPresentation\bin\Capa Datos.dll
+C:\Users\Irina Garcia\Downloads\ASEMU\CapaPresentation\bin\Capa Negocios.dll
+C:\Users\Irina Garcia\Downloads\ASEMU\CapaPresentation\bin\CapaEntidad.dll
+C:\Users\Irina Garcia\Downloads\ASEMU\CapaPresentation\bin\Microsoft.AspNet.FriendlyUrls.dll
+C:\Users\Irina Garcia\Downloads\ASEMU\CapaPresentation\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+C:\Users\Irina Garcia\Downloads\ASEMU\CapaPresentation\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Irina Garcia\Downloads\ASEMU\CapaPresentation\bin\Microsoft.ScriptManager.MSAjax.dll
+C:\Users\Irina Garcia\Downloads\ASEMU\CapaPresentation\bin\Microsoft.ScriptManager.WebForms.dll
+C:\Users\Irina Garcia\Downloads\ASEMU\CapaPresentation\bin\Microsoft.VisualStudio.CodeCoverage.Shim.dll
+C:\Users\Irina Garcia\Downloads\ASEMU\CapaPresentation\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Irina Garcia\Downloads\ASEMU\CapaPresentation\bin\Newtonsoft.Json.dll
+C:\Users\Irina Garcia\Downloads\ASEMU\CapaPresentation\bin\System.Web.Optimization.dll
+C:\Users\Irina Garcia\Downloads\ASEMU\CapaPresentation\bin\WebGrease.dll
+C:\Users\Irina Garcia\Downloads\ASEMU\CapaPresentation\bin\Capa Datos.pdb
+C:\Users\Irina Garcia\Downloads\ASEMU\CapaPresentation\bin\Capa Negocios.pdb
+C:\Users\Irina Garcia\Downloads\ASEMU\CapaPresentation\bin\CapaEntidad.pdb
+C:\Users\Irina Garcia\Downloads\ASEMU\CapaPresentation\bin\Microsoft.AspNet.FriendlyUrls.xml
+C:\Users\Irina Garcia\Downloads\ASEMU\CapaPresentation\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Irina Garcia\Downloads\ASEMU\CapaPresentation\bin\Newtonsoft.Json.xml
+C:\Users\Irina Garcia\Downloads\ASEMU\CapaPresentation\bin\System.Web.Optimization.xml
+C:\Users\Irina Garcia\Downloads\ASEMU\CapaPresentation\bin\Antlr3.Runtime.pdb
+C:\Users\Irina Garcia\Downloads\ASEMU\CapaPresentation\bin\es\System.Web.Optimization.resources.dll
+C:\Users\Irina Garcia\Downloads\ASEMU\CapaPresentation\obj\Debug\CapaPresentacion.csprojAssemblyReference.cache
+C:\Users\Irina Garcia\Downloads\ASEMU\CapaPresentation\obj\Debug\CapaPresentacion.csproj.CoreCompileInputs.cache
+C:\Users\Irina Garcia\Downloads\ASEMU\CapaPresentation\obj\Debug\CapaPresentacion.csproj.CopyComplete
+C:\Users\Irina Garcia\Downloads\ASEMU\CapaPresentation\obj\Debug\CapaPresentation.dll
+C:\Users\Irina Garcia\Downloads\ASEMU\CapaPresentation\obj\Debug\CapaPresentation.pdb
+C:\Users\Irina Garcia\Downloads\ASEMU\CapaPresentation\bin\NLog.config
+C:\Users\Irina Garcia\Downloads\ASEMU\CapaPresentation\bin\NLog.dll
+C:\Users\Irina Garcia\Downloads\ASEMU\CapaPresentation\bin\NLog.xml
+C:\Users\Irina Garcia\Downloads\ASEMU\CapaPresentation\bin\CrystalDecisions.CrystalReports.Engine.dll
+C:\Users\Irina Garcia\Downloads\ASEMU\CapaPresentation\bin\CrystalDecisions.ReportSource.dll
+C:\Users\Irina Garcia\Downloads\ASEMU\CapaPresentation\bin\CrystalDecisions.Shared.dll
+C:\Users\Irina Garcia\Downloads\ASEMU\CapaPresentation\bin\CrystalDecisions.ReportAppServer.DataDefModel.dll
+C:\Users\Irina Garcia\Downloads\ASEMU\CapaPresentation\bin\CrystalDecisions.ReportAppServer.ClientDoc.dll
+C:\Users\Irina Garcia\Downloads\ASEMU\CapaPresentation\bin\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+C:\Users\Irina Garcia\Downloads\ASEMU\CapaPresentation\bin\CrystalDecisions.ReportAppServer.Controllers.dll
+C:\Users\Irina Garcia\Downloads\ASEMU\CapaPresentation\bin\CrystalDecisions.ReportAppServer.CommLayer.dll
+C:\Users\Irina Garcia\Downloads\ASEMU\CapaPresentation\bin\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+C:\Users\Irina Garcia\Downloads\ASEMU\CapaPresentation\bin\CrystalDecisions.ReportAppServer.Prompting.dll
+C:\Users\Irina Garcia\Downloads\ASEMU\CapaPresentation\bin\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+C:\Users\Irina Garcia\Downloads\ASEMU\CapaPresentation\bin\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+C:\Users\Irina Garcia\Downloads\ASEMU\CapaPresentation\bin\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+C:\Users\Irina Garcia\Downloads\ASEMU\CapaPresentation\bin\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+C:\Users\Irina Garcia\Downloads\ASEMU\CapaPresentation\bin\CrystalDecisions.ReportAppServer.CommonControls.dll
+C:\Users\Irina Garcia\Downloads\ASEMU\CapaPresentation\bin\stdole.dll

@@ -1,0 +1,72 @@
+D:\Proyecto\ASEMU\Capa Negocios\bin\Debug\Capa Negocios.dll
+D:\Proyecto\ASEMU\Capa Negocios\bin\Debug\Capa Negocios.pdb
+D:\Proyecto\ASEMU\Capa Negocios\obj\Debug\CapaNegocio.csproj.CoreCompileInputs.cache
+D:\Proyecto\ASEMU\Capa Negocios\obj\Debug\Capa Negocios.dll
+D:\Proyecto\ASEMU\Capa Negocios\obj\Debug\Capa Negocios.pdb
+C:\Users\USUARIO\Desktop\Universidad Fidelitas\Analisis desarollo 2\Proyecto Asume\ASEMU\Capa Negocios\bin\Debug\Capa Negocios.dll
+C:\Users\USUARIO\Desktop\Universidad Fidelitas\Analisis desarollo 2\Proyecto Asume\ASEMU\Capa Negocios\bin\Debug\Capa Negocios.pdb
+C:\Users\USUARIO\Desktop\Universidad Fidelitas\Analisis desarollo 2\Proyecto Asume\ASEMU\Capa Negocios\obj\Debug\CapaNegocio.csproj.CoreCompileInputs.cache
+C:\Users\USUARIO\Desktop\Universidad Fidelitas\Analisis desarollo 2\Proyecto Asume\ASEMU\Capa Negocios\obj\Debug\Capa Negocios.dll
+C:\Users\USUARIO\Desktop\Universidad Fidelitas\Analisis desarollo 2\Proyecto Asume\ASEMU\Capa Negocios\obj\Debug\Capa Negocios.pdb
+C:\Users\Irina Garcia\Downloads\Proyecto ASUME ENCRIIPTA\ASEMU\Capa Negocios\bin\Debug\Capa Negocios.dll
+C:\Users\Irina Garcia\Downloads\Proyecto ASUME ENCRIIPTA\ASEMU\Capa Negocios\bin\Debug\Capa Negocios.pdb
+C:\Users\Irina Garcia\Downloads\Proyecto ASUME ENCRIIPTA\ASEMU\Capa Negocios\obj\Debug\CapaNegocio.csprojAssemblyReference.cache
+C:\Users\Irina Garcia\Downloads\Proyecto ASUME ENCRIIPTA\ASEMU\Capa Negocios\obj\Debug\CapaNegocio.csproj.CoreCompileInputs.cache
+C:\Users\Irina Garcia\Downloads\Proyecto ASUME ENCRIIPTA\ASEMU\Capa Negocios\obj\Debug\Capa Negocios.dll
+C:\Users\Irina Garcia\Downloads\Proyecto ASUME ENCRIIPTA\ASEMU\Capa Negocios\obj\Debug\Capa Negocios.pdb
+C:\Users\Irina Garcia\Downloads\Proyecto ASUME ENCRIIPTA\ASEMU\Capa Negocios\bin\Debug\Microsoft.VisualStudio.CodeCoverage.Shim.dll
+C:\Users\Irina Garcia\Downloads\Proyecto ASUME ENCRIIPTA\ASEMU\Capa Negocios\obj\Debug\CapaNegocio.csproj.CopyComplete
+C:\Users\Irina Garcia\Downloads\Proyecto ASUME ENCRIIPTA\ASEMU\Capa Negocios\bin\Debug\Capa Datos.dll
+C:\Users\Irina Garcia\Downloads\Proyecto ASUME ENCRIIPTA\ASEMU\Capa Negocios\bin\Debug\CapaEntidad.dll
+C:\Users\Irina Garcia\Downloads\Proyecto ASUME ENCRIIPTA\ASEMU\Capa Negocios\bin\Debug\Capa Datos.pdb
+C:\Users\Irina Garcia\Downloads\Proyecto ASUME ENCRIIPTA\ASEMU\Capa Negocios\bin\Debug\CapaEntidad.pdb
+D:\Diseno y Desarollo de Sistemas\Proyecto\Proyecto Programado\19-07-2020\Proyecto ASUME ENCRIIPTA\ASEMU\Capa Negocios\obj\Debug\CapaNegocio.csprojAssemblyReference.cache
+D:\Diseno y Desarollo de Sistemas\Proyecto\Proyecto Programado\19-07-2020\Proyecto ASUME ENCRIIPTA\ASEMU\Capa Negocios\obj\Debug\CapaNegocio.csproj.CoreCompileInputs.cache
+D:\Diseno y Desarollo de Sistemas\Proyecto\Proyecto Programado\19-07-2020\Proyecto ASUME ENCRIIPTA\ASEMU\Capa Negocios\obj\Debug\Capa Negocios.dll
+D:\Diseno y Desarollo de Sistemas\Proyecto\Proyecto Programado\19-07-2020\Proyecto ASUME ENCRIIPTA\ASEMU\Capa Negocios\obj\Debug\Capa Negocios.pdb
+D:\Diseno y Desarollo de Sistemas\Proyecto\Proyecto Programado\19-07-2020\Proyecto ASUME ENCRIIPTA\ASEMU\Capa Negocios\bin\Debug\Capa Negocios.dll
+D:\Diseno y Desarollo de Sistemas\Proyecto\Proyecto Programado\19-07-2020\Proyecto ASUME ENCRIIPTA\ASEMU\Capa Negocios\bin\Debug\Capa Negocios.pdb
+D:\Diseno y Desarollo de Sistemas\Proyecto\Proyecto Programado\19-07-2020\Proyecto ASUME ENCRIIPTA\ASEMU\Capa Negocios\bin\Debug\Capa Datos.dll
+D:\Diseno y Desarollo de Sistemas\Proyecto\Proyecto Programado\19-07-2020\Proyecto ASUME ENCRIIPTA\ASEMU\Capa Negocios\bin\Debug\CapaEntidad.dll
+D:\Diseno y Desarollo de Sistemas\Proyecto\Proyecto Programado\19-07-2020\Proyecto ASUME ENCRIIPTA\ASEMU\Capa Negocios\bin\Debug\Microsoft.VisualStudio.CodeCoverage.Shim.dll
+D:\Diseno y Desarollo de Sistemas\Proyecto\Proyecto Programado\19-07-2020\Proyecto ASUME ENCRIIPTA\ASEMU\Capa Negocios\bin\Debug\Capa Datos.pdb
+D:\Diseno y Desarollo de Sistemas\Proyecto\Proyecto Programado\19-07-2020\Proyecto ASUME ENCRIIPTA\ASEMU\Capa Negocios\bin\Debug\CapaEntidad.pdb
+D:\Diseno y Desarollo de Sistemas\Proyecto\Proyecto Programado\19-07-2020\Proyecto ASUME ENCRIIPTA\ASEMU\Capa Negocios\obj\Debug\CapaNegocio.csproj.CopyComplete
+C:\Users\USUARIO\Desktop\Universidad Fidelitas\Analisis desarollo 2\Proyecto Asume\Proyecto Asume v8\ASEMU\Capa Negocios\bin\Debug\Capa Negocios.dll
+C:\Users\USUARIO\Desktop\Universidad Fidelitas\Analisis desarollo 2\Proyecto Asume\Proyecto Asume v8\ASEMU\Capa Negocios\bin\Debug\Capa Negocios.pdb
+C:\Users\USUARIO\Desktop\Universidad Fidelitas\Analisis desarollo 2\Proyecto Asume\Proyecto Asume v8\ASEMU\Capa Negocios\bin\Debug\Capa Datos.dll
+C:\Users\USUARIO\Desktop\Universidad Fidelitas\Analisis desarollo 2\Proyecto Asume\Proyecto Asume v8\ASEMU\Capa Negocios\bin\Debug\CapaEntidad.dll
+C:\Users\USUARIO\Desktop\Universidad Fidelitas\Analisis desarollo 2\Proyecto Asume\Proyecto Asume v8\ASEMU\Capa Negocios\bin\Debug\Microsoft.VisualStudio.CodeCoverage.Shim.dll
+C:\Users\USUARIO\Desktop\Universidad Fidelitas\Analisis desarollo 2\Proyecto Asume\Proyecto Asume v8\ASEMU\Capa Negocios\bin\Debug\Capa Datos.pdb
+C:\Users\USUARIO\Desktop\Universidad Fidelitas\Analisis desarollo 2\Proyecto Asume\Proyecto Asume v8\ASEMU\Capa Negocios\bin\Debug\CapaEntidad.pdb
+C:\Users\USUARIO\Desktop\Universidad Fidelitas\Analisis desarollo 2\Proyecto Asume\Proyecto Asume v8\ASEMU\Capa Negocios\obj\Debug\CapaNegocio.csprojAssemblyReference.cache
+C:\Users\USUARIO\Desktop\Universidad Fidelitas\Analisis desarollo 2\Proyecto Asume\Proyecto Asume v8\ASEMU\Capa Negocios\obj\Debug\CapaNegocio.csproj.CoreCompileInputs.cache
+C:\Users\USUARIO\Desktop\Universidad Fidelitas\Analisis desarollo 2\Proyecto Asume\Proyecto Asume v8\ASEMU\Capa Negocios\obj\Debug\CapaNegocio.csproj.CopyComplete
+C:\Users\USUARIO\Desktop\Universidad Fidelitas\Analisis desarollo 2\Proyecto Asume\Proyecto Asume v8\ASEMU\Capa Negocios\obj\Debug\Capa Negocios.dll
+C:\Users\USUARIO\Desktop\Universidad Fidelitas\Analisis desarollo 2\Proyecto Asume\Proyecto Asume v8\ASEMU\Capa Negocios\obj\Debug\Capa Negocios.pdb
+C:\Users\USUARIO\Desktop\Universidad Fidelitas\Analisis desarollo 2\Proyecto Asume\Proyecto Asemu v9\ASEMU\Capa Negocios\bin\Debug\Capa Negocios.dll
+C:\Users\USUARIO\Desktop\Universidad Fidelitas\Analisis desarollo 2\Proyecto Asume\Proyecto Asemu v9\ASEMU\Capa Negocios\bin\Debug\Capa Negocios.pdb
+C:\Users\USUARIO\Desktop\Universidad Fidelitas\Analisis desarollo 2\Proyecto Asume\Proyecto Asemu v9\ASEMU\Capa Negocios\bin\Debug\Capa Datos.dll
+C:\Users\USUARIO\Desktop\Universidad Fidelitas\Analisis desarollo 2\Proyecto Asume\Proyecto Asemu v9\ASEMU\Capa Negocios\bin\Debug\CapaEntidad.dll
+C:\Users\USUARIO\Desktop\Universidad Fidelitas\Analisis desarollo 2\Proyecto Asume\Proyecto Asemu v9\ASEMU\Capa Negocios\bin\Debug\Microsoft.VisualStudio.CodeCoverage.Shim.dll
+C:\Users\USUARIO\Desktop\Universidad Fidelitas\Analisis desarollo 2\Proyecto Asume\Proyecto Asemu v9\ASEMU\Capa Negocios\bin\Debug\Capa Datos.pdb
+C:\Users\USUARIO\Desktop\Universidad Fidelitas\Analisis desarollo 2\Proyecto Asume\Proyecto Asemu v9\ASEMU\Capa Negocios\bin\Debug\CapaEntidad.pdb
+C:\Users\USUARIO\Desktop\Universidad Fidelitas\Analisis desarollo 2\Proyecto Asume\Proyecto Asemu v9\ASEMU\Capa Negocios\obj\Debug\CapaNegocio.csprojAssemblyReference.cache
+C:\Users\USUARIO\Desktop\Universidad Fidelitas\Analisis desarollo 2\Proyecto Asume\Proyecto Asemu v9\ASEMU\Capa Negocios\obj\Debug\CapaNegocio.csproj.CoreCompileInputs.cache
+C:\Users\USUARIO\Desktop\Universidad Fidelitas\Analisis desarollo 2\Proyecto Asume\Proyecto Asemu v9\ASEMU\Capa Negocios\obj\Debug\CapaNegocio.csproj.CopyComplete
+C:\Users\USUARIO\Desktop\Universidad Fidelitas\Analisis desarollo 2\Proyecto Asume\Proyecto Asemu v9\ASEMU\Capa Negocios\obj\Debug\Capa Negocios.dll
+C:\Users\USUARIO\Desktop\Universidad Fidelitas\Analisis desarollo 2\Proyecto Asume\Proyecto Asemu v9\ASEMU\Capa Negocios\obj\Debug\Capa Negocios.pdb
+C:\Users\Irina Garcia\Downloads\ASEMU\Capa Negocios\bin\Debug\Capa Negocios.dll
+C:\Users\Irina Garcia\Downloads\ASEMU\Capa Negocios\bin\Debug\Capa Negocios.pdb
+C:\Users\Irina Garcia\Downloads\ASEMU\Capa Negocios\bin\Debug\Capa Datos.dll
+C:\Users\Irina Garcia\Downloads\ASEMU\Capa Negocios\bin\Debug\CapaEntidad.dll
+C:\Users\Irina Garcia\Downloads\ASEMU\Capa Negocios\bin\Debug\Microsoft.VisualStudio.CodeCoverage.Shim.dll
+C:\Users\Irina Garcia\Downloads\ASEMU\Capa Negocios\bin\Debug\Capa Datos.pdb
+C:\Users\Irina Garcia\Downloads\ASEMU\Capa Negocios\bin\Debug\CapaEntidad.pdb
+C:\Users\Irina Garcia\Downloads\ASEMU\Capa Negocios\obj\Debug\CapaNegocio.csprojAssemblyReference.cache
+C:\Users\Irina Garcia\Downloads\ASEMU\Capa Negocios\obj\Debug\CapaNegocio.csproj.CoreCompileInputs.cache
+C:\Users\Irina Garcia\Downloads\ASEMU\Capa Negocios\obj\Debug\CapaNegocio.csproj.CopyComplete
+C:\Users\Irina Garcia\Downloads\ASEMU\Capa Negocios\obj\Debug\Capa Negocios.dll
+C:\Users\Irina Garcia\Downloads\ASEMU\Capa Negocios\obj\Debug\Capa Negocios.pdb
+C:\Users\Irina Garcia\Downloads\ASEMU\Capa Negocios\bin\Debug\NLog.dll
+C:\Users\Irina Garcia\Downloads\ASEMU\Capa Negocios\bin\Debug\NLog.xml
